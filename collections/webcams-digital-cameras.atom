@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/webcams-digital-cameras.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-07-07T21:22:12-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6574058307682</id>
+    <published>2021-07-07T21:22:12-04:00</published>
+    <updated>2021-07-07T21:22:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/avermedia-1080p-hd-webcam-pw315"/>
+    <title>AVerMedia 1080p HD Webcam (PW315)</title>
+    <s:type>Webcams</s:type>
+    <s:vendor>AVerMedia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/2802873f5bec61fa0d49f7a4d0938ff0.jpg?v=1625872985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVerMedia<br>
+        <strong>Type: </strong>Webcams<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 795522966872 <br> <strong>Model No:</strong> PW315 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574058307682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>795522966872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6574058176610</id>
+    <published>2021-07-07T21:20:25-04:00</published>
+    <updated>2021-07-07T21:20:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-hd-webcam-c615-960-000733"/>
+    <title>Logitech HD Webcam C615 (960-000733)</title>
+    <s:type>Webcams</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/15fbfba63d97f48eeb56a8c6cf8f997f.jpg?v=1625872984"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Webcams<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855074805 <br> <strong>Model No:</strong> 960-000733 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574058176610</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>097855074805</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6574055686242</id>
+    <published>2021-07-07T20:52:12-04:00</published>
+    <updated>2021-07-07T20:52:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/microsoft-modern-1080p-hd-webcam-8l3-00001"/>
+    <title>Microsoft Modern 1080p HD Webcam (8L3-00001)</title>
+    <s:type>Webcams</s:type>
+    <s:vendor>Microsoft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/2baf2105ac3fd0b9c6b296f8283f7694.jpg?v=1625872968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Microsoft<br>
+        <strong>Type: </strong>Webcams<br>
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 889842758504 <br> <strong>Model No:</strong> 8L3-00001 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574055686242</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">82.00</s:price>
+      <s:sku>889842758504</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6573970260066</id>
+    <published>2021-07-07T18:10:13-04:00</published>
+    <updated>2021-07-07T18:10:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-c922-pro-stream-1080p-hd-webcam"/>
+    <title>Logitech C922 Pro Stream 1080p HD Webcam</title>
+    <s:type>Webcams</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/54f231c2710af494113ef549769bf05c.jpg?v=1625872954"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Webcams<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855124296 <br> <strong>Model No:</strong> 960-001087 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6573970260066</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>097855124296</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6572536561762</id>
+    <published>2021-06-30T20:24:19-04:00</published>
+    <updated>2021-06-30T20:24:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/j5create-hd-webcam-jvcu100"/>
+    <title>J5Create HD Webcam (JVCU100)</title>
+    <s:type>Webcams</s:type>
+    <s:vendor>J5Create</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/7fb7ef7814796165bfc1a2a7358b2d43.jpg?v=1625268175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>J5Create<br>
+        <strong>Type: </strong>Webcams<br>
+        <strong>Price: </strong>
+            63.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 847626004896<br>
+<strong>Model No:</strong> JVCU100<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6572536561762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>847626004896</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6572535611490</id>
+    <published>2021-06-30T20:05:55-04:00</published>
+    <updated>2021-06-30T20:05:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-streamcam-plus-hd-webcam-960-001280"/>
+    <title>Logitech StreamCam Plus HD Webcam (960-001280)</title>
+    <s:type>Webcams</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/cf7db5490d23c148647e0e2ebba430ce.jpg?v=1625268168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Webcams<br>
+        <strong>Price: </strong>
+            192.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855153210<br>
+<strong>Model No:</strong> 960-001280<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6572535611490</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">192.99</s:price>
+      <s:sku>097855153210</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6572534759522</id>
+    <published>2021-06-30T19:55:26-04:00</published>
+    <updated>2021-06-30T19:55:26-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/aluratek-1080p-hd-webcam-awc03f"/>
+    <title>Aluratek 1080p HD Webcam (AWC03F)</title>
+    <s:type>Webcams</s:type>
+    <s:vendor>Aluratek</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/fc35b673104bef0b819f5af883c2c295.jpg?v=1625268167"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Aluratek<br>
+        <strong>Type: </strong>Webcams<br>
+        <strong>Price: </strong>
+            74.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 812658014601<br>
+<strong>Model No:</strong> AWC03F<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6572534759522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">74.00</s:price>
+      <s:sku>812658014601</s:sku>
+      <s:grams>203</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/430238957607</id>
+    <published>2017-12-11T15:17:12-05:00</published>
+    <updated>2017-12-11T15:17:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/wildgame-innovations-cloak-pro-12-game-camera-combo"/>
+    <title>Wildgame Innovations Cloak Pro 12 Game Camera Combo</title>
+    <s:type>Digital Cameras &amp; Camcorders</s:type>
+    <s:vendor>Wildgame</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/6f71995616b2e28d3741e7cfa794d25b.png?v=1624235610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Wildgame<br>
+        <strong>Type: </strong>Digital Cameras &amp; Camcorders<br>
+        <strong>Price: </strong>
+            111.24
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 616376510229</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Wildgame</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/430238957607</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">111.24</s:price>
+      <s:sku>616376510229</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

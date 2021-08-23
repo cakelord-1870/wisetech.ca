@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/computers-tablets-networking-software-office-business.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-03-25T15:26:52-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6544789897314</id>
+    <published>2021-03-25T15:26:52-04:00</published>
+    <updated>2021-03-25T15:26:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/microsoft-windows-10-home-usb-flash-drive-english"/>
+    <title>Microsoft Windows 10 Home USB Flash Drive - English</title>
+    <s:type>Software</s:type>
+    <s:vendor>Microsoft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/f468a63f8dc82142079f2042d80df8cb.jpg?v=1624232414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Microsoft<br>
+        <strong>Type: </strong>Software<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 889842536423<br>
+<strong>Model No:</strong> HAJ00052</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6544789897314</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">130.00</s:price>
+      <s:sku>889842536423</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/thermostats-smoke-detectors.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-07-07T21:03:15-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6574056800354</id>
+    <published>2021-07-07T21:03:15-04:00</published>
+    <updated>2021-07-07T21:03:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/sinope-wi-fi-smart-thermostat-4000w-white-th1124wf"/>
+    <title>Sinopé Wi-Fi Smart Thermostat - 4000W - White (TH1124WF)</title>
+    <s:type>Programmable Thermostats</s:type>
+    <s:vendor>Sinope</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/d2826af8d9b07adb14c6563e711e16e4.jpg?v=1625872973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sinope<br>
+        <strong>Type: </strong>Programmable Thermostats<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 667563001655 <br>
+<strong>Model No:</strong> TH1124WF <br>
+<strong>Condition: </strong>New </p>
+
+<ul>
+	<li>Important note: Check your existing heating and cooling systems, as this product works with electric baseboard heating, and does not work with forced air, heat pump, radiant or central HVAC systems; if you only have heaters (no AC), with controllers and heaters in each room, you likely have baseboard heaters and this thermostat will work</li>
+	<li>4,000-watt smart thermostat allows you to adjust the temperature of your home and keeps it cosy all day and night</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574056800354</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>667563001655</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543939141730</id>
+    <published>2021-07-07T18:44:36-04:00</published>
+    <updated>2021-07-07T18:44:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/google-nest-wi-fi-smart-thermostat-snow-ga01334-ca"/>
+    <title>Google Nest Wi-Fi Smart Thermostat - Snow (GA01334-CA)</title>
+    <s:type>Programmable Thermostats</s:type>
+    <s:vendor>Google Nest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/9ae8b8a1a1b6e856a2e48e6106ae9428.jpg?v=1624230682"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Google Nest<br>
+        <strong>Type: </strong>Programmable Thermostats<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 193575007656 <br> <strong>Model No:</strong> GA01334-CA <br><strong>Condition:</strong> New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543939141730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku>193575007656</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543238299746</id>
+    <published>2021-03-19T13:22:52-04:00</published>
+    <updated>2021-03-19T13:22:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/google-nest-wi-fi-smart-thermostat-charcoal-ga02081-ca"/>
+    <title>Google Nest Wi-Fi Smart Thermostat - Charcoal (GA02081-CA)</title>
+    <s:type>Programmable Thermostats</s:type>
+    <s:vendor>Google Nest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/87975336753b3037d3f986ff8f33f2cb.jpg?v=1624230678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Google Nest<br>
+        <strong>Type: </strong>Programmable Thermostats<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 193575007687<br> <strong>Model No:</strong> GA02081-CA<br><strong>Condition:</strong> New</p>
+<p>Get a smart, energy-efficient thermostat in your home with the Google Nest Thermostat. Easy to install and use, this smart thermostat can turn itself down to save energy when you're away from home, and it's easy to control with your voice via Google Assistant or through the Google Home app. The Nest Thermostat can even send alerts if it notices any issues with your HVAC system.</p>
+<p><strong>Important Note</strong><br>Check your existing heating and cooling systems, as this product works with forced air, heat pump, radiant or central HVAC systems.</p>
+<p>It does NOT work with electric baseboard heating; <br>If you have vents in your walls, a boiler in the basement, central air conditioning, or floors that heat/cool, this thermostat will work. </p>
+<p><span>Find out if the Nest Thermostat is compatible with your home. </span><a href="https://store.google.com/ca/product/nest_thermostat?hl=en-GB#thermostat_compatibility" target="_blank">Check compatibility.</a></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543238299746</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku>193575007687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

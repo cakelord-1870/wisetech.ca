@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/health-tech.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-07-07T21:13:16-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6574057619554</id>
+    <published>2021-07-07T21:13:16-04:00</published>
+    <updated>2021-07-07T21:13:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/theragun-prime-handheld-percussive-massage-device-black-prime-pkg-us"/>
+    <title>Theragun Prime Handheld Percussive Massage Device - Black (Prime-PKG-US)</title>
+    <s:type>Massagers</s:type>
+    <s:vendor>Theragun</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/872d42d86a12ada40d2e19d585369591.jpg?v=1625872980"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Theragun<br>
+        <strong>Type: </strong>Massagers<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 810036050654 <br> <strong>Model No:</strong> Prime-PKG-US <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574057619554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">370.00</s:price>
+      <s:sku>810036050654</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4350887395426</id>
+    <published>2020-01-07T14:02:12-05:00</published>
+    <updated>2020-01-07T14:02:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/nightingale-smart-sleep-system-2-pack"/>
+    <title>Nightingale Smart Sleep System - 2 Pack</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>Nightingale</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/0d6ea0c04a510964118cac7ee8511809.jpg?v=1624232745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nightingale<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 856992007035</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nightingale</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4350887395426</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">200.00</s:price>
+      <s:sku>856992007035</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

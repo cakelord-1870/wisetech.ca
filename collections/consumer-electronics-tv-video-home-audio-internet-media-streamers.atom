@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/consumer-electronics-tv-video-home-audio-internet-media-streamers.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-07-07T07:44:10-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/4530800787554</id>
+    <published>2021-07-07T07:44:10-04:00</published>
+    <updated>2021-07-07T07:44:10-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/google-chromecast-4k-with-google-tv-white-ga01919-ca"/>
+    <title>Google Chromecast 4K with Google TV - White (GA01919-CA)</title>
+    <s:type>Internet &amp; Media Streamers</s:type>
+    <s:vendor>Google</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/77526d77aa05353b44d9eb2497979890.jpg?v=1624230551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Google<br>
+        <strong>Type: </strong>Internet &amp; Media Streamers<br>
+        <strong>Price: </strong>
+            66.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 193575007250<br> <strong>Model No:</strong> GA01919-CA<br><strong>Condition:</strong> New</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/4530800787554</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">66.00</s:price>
+      <s:sku>193575007250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4532977172578</id>
+    <published>2021-06-20T17:44:38-04:00</published>
+    <updated>2021-06-20T17:44:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/amazon-fire-tv-stick-lite-media-streamer-with-alexa-voice-remote-lite"/>
+    <title>Amazon Fire TV Stick Lite Media Streamer with Alexa Voice Remote Lite</title>
+    <s:type>Internet &amp; Media Streamers</s:type>
+    <s:vendor>Amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/7c572eba121fb4554f4daf82ec264555.jpg?v=1624227769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazon<br>
+        <strong>Type: </strong>Internet &amp; Media Streamers<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 840080578330<br>
+<strong>Model No:</strong> B07ZZW18N6</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/4532977172578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>840080578330</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4358401261666</id>
+    <published>2021-06-20T17:44:36-04:00</published>
+    <updated>2021-06-20T17:44:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/google-chromecast-3rd-gen-charcoal-grey-ga00439-us"/>
+    <title>Google Chromecast 3rd Gen - Charcoal Grey (GA00439-US)</title>
+    <s:type>Internet &amp; Media Streamers</s:type>
+    <s:vendor>Google</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/5d9728d2a06c459909ebe57dfd8703e3.jpg?v=1624230519"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Google<br>
+        <strong>Type: </strong>Internet &amp; Media Streamers<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 842776106148</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Chromecast</s:tag>
+    <s:tag>Google</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4358401261666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>842776106148</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543215198306</id>
+    <published>2021-03-19T12:59:39-04:00</published>
+    <updated>2021-03-19T12:59:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/avermedia-live-streamer-duo-bundle-bo311dca"/>
+    <title>AverMedia Live Streamer Duo Bundle (BO311DCA)</title>
+    <s:type>Internet &amp; Media Streamers</s:type>
+    <s:vendor>AVerMedia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/70e1c4bdf7cdd32be94cb51327465447.jpg?v=1624228600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVerMedia<br>
+        <strong>Type: </strong>Internet &amp; Media Streamers<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 795522966285 <br> <strong>Model No:</strong> BO311DCA <br><strong>Condition:</strong> New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543215198306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku>795522966285</s:sku>
+      <s:grams>559</s:grams>
+    </s:variant>
+  </entry>
+</feed>

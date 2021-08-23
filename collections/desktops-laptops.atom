@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/desktops-laptops.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-08-19T15:08:57-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6585999196258</id>
+    <published>2021-08-19T15:08:57-04:00</published>
+    <updated>2021-08-19T15:08:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/microsoft-surface-laptop-go-12-4-touchscreen-laptop-platinum-thh-00001"/>
+    <title>Microsoft Surface Laptop Go 12.4&quot; Touchscreen Laptop - Platinum (THH-00001)</title>
+    <s:type>Laptop</s:type>
+    <s:vendor>Microsoft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/34-736-241-V01.jpg?v=1629400131"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Microsoft<br>
+        <strong>Type: </strong>Laptop<br>
+        <strong>Price: </strong>
+            920.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>Model: </strong><span data-mce-fragment="1">THH-00001 <br></span><span data-mce-fragment="1"><strong>UPC: </strong>889842668001<br><strong>Condition:</strong> New </span></p>
+<p> </p>
+<p><b>Specifications:</b><strong> </strong></p>
+<ul>
+<li><span data-mce-fragment="1">10th Gen Intel Core i5-1035G1 Processor</span></li>
+<li><span data-mce-fragment="1">128GB SSD Storage</span></li>
+<li><span data-mce-fragment="1">8GB Ram (LPDDR4X)</span></li>
+</ul>
+<p><span data-mce-fragment="1"><br></span></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585999196258</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">920.00</s:price>
+      <s:sku>889842668001</s:sku>
+      <s:grams>907</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585991757922</id>
+    <published>2021-08-19T14:37:20-04:00</published>
+    <updated>2021-08-19T14:37:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-s15-s533-s533ea-dh51-15-6-notebook-full-hd-1920-x-1080-intel-core-i5-11th-gen-i5-1135g7-quad-core-4-core-2-40-ghz-8-gb-ram-512-gb-ssd-indie-black-gray"/>
+    <title>Asus VivoBook S15 S533 S533EA-DH51 15.6&quot; Notebook - Full HD - 1920 x 1080 - Intel Core i5 (11th Gen) i5-1135G7 Quad-core (4 Core) 2.40 GHz - 8 GB RAM - 512 GB SSD - Indie Black, Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1065590056.jpg?v=1629398253"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1058.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ASUS VivoBook, a perennial favorite, is getting a new, bolder look thats sure to get pulses racing. The slim and lightweight VivoBook S15 now features an 11th Generation Intel Core Processor, diamond-cut edges and a textured finish, and is available in four distinct colors that have been chosen to reflect your personality. The positive vibes continue when you open the lid, where youre greeted by an Enter key with color-blocking edges. VivoBook S15 brings out the true you, both inside and out. The actual transfer speed of USB 3.0, 3.1, 3.2 (Gen 1 and 2), and/or Type-C will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to system configuration and your operating environment.</p><ul>
+<br><li>Intel Core i5 2.40 GHz processor provides great performance, immersive multimedia and rapid loading of programs</li>
+<br><li>With 8 GB memory, you can multitask between various applications without issue</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home can be the best fit for both home and office and it features an improved 2 x 2 snapping, helps you make more productive on desktops</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585991757922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1058.99</s:price>
+      <s:sku>368A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585991528546</id>
+    <published>2021-08-19T14:37:15-04:00</published>
+    <updated>2021-08-19T14:37:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-s15-s533-s533ea-dh51-gn-15-6-notebook-full-hd-1920-x-1080-intel-core-i5-11th-gen-i5-1135g7-quad-core-4-core-2-40-ghz-8-gb-ram-512-gb-ssd-gaia-green-transparent-silver"/>
+    <title>Asus VivoBook S15 S533 S533EA-DH51-GN 15.6&quot; Notebook - Full HD - 1920 x 1080 - Intel Core i5 (11th Gen) i5-1135G7 Quad-core (4 Core) 2.40 GHz - 8 GB RAM - 512 GB SSD - Gaia Green, Transparent Silver</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1065590053.jpg?v=1629398249"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1058.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ASUS VivoBook, a perennial favorite, is getting a new, bolder look thats sure to get pulses racing. The slim and lightweight VivoBook S15 now features an 11th Generation Intel Core Processor, diamond-cut edges and a textured finish, and is available in four distinct colors that have been chosen to reflect your personality. The positive vibes continue when you open the lid, where youre greeted by an Enter key with color-blocking edges. VivoBook S15 brings out the true you, both inside and out. The actual transfer speed of USB 3.0, 3.1, 3.2 (Gen 1 and 2), and/or Type-C will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to system configuration and your operating environment.</p><ul>
+<br><li>Intel Core i5 2.40 GHz processor provides great performance, immersive multimedia and rapid loading of programs</li>
+<br><li>With 8 GB DDR4 SDRAM memory, you can multitask seamlessly between various applications without issue</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home can be the best fit for both home and office and it features an improved 2 x 2 snapping, helps you make more productive on desktops</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585991528546</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1058.99</s:price>
+      <s:sku>369A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585991331938</id>
+    <published>2021-08-19T14:37:11-04:00</published>
+    <updated>2021-08-19T14:37:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-s15-s533-s533ea-dh51-rd-15-6-notebook-full-hd-1920-x-1080-intel-core-i5-11th-gen-i5-1135g7-quad-core-4-core-2-40-ghz-8-gb-ram-512-gb-ssd-resolute-red-transparent-silver"/>
+    <title>Asus VivoBook S15 S533 S533EA-DH51-RD 15.6&quot; Notebook - Full HD - 1920 x 1080 - Intel Core i5 (11th Gen) i5-1135G7 Quad-core (4 Core) 2.40 GHz - 8 GB RAM - 512 GB SSD - Resolute Red, Transparent Silver</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1065590054.jpg?v=1629398252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1058.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ASUS VivoBook, a perennial favorite, is getting a new, bolder look thats sure to get pulses racing. The slim and lightweight VivoBook S15 now features an 11th Generation Intel Core Processor, diamond-cut edges and a textured finish, and is available in four distinct colors that have been chosen to reflect your personality. The positive vibes continue when you open the lid, where youre greeted by an Enter key with color-blocking edges. VivoBook S15 brings out the true you, both inside and out. The actual transfer speed of USB 3.0, 3.1, 3.2 (Gen 1 and 2), and/or Type-C will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to system configuration and your operating environment.</p><ul>
+<br><li>Intel Core i5 2.40 GHz processor provides great performance, immersive multimedia and rapid loading of programs</li>
+<br><li>With 8 GB memory, you can multitask between various applications without issue</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home can be the best fit for both home and office and it features an improved 2 x 2 snapping, helps you make more productive on desktops</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585991331938</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1058.99</s:price>
+      <s:sku>370A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585991266402</id>
+    <published>2021-08-19T14:37:00-04:00</published>
+    <updated>2021-08-19T14:37:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-s15-s533-s533ea-dh51-wh-15-6-notebook-full-hd-1920-x-1080-intel-core-i5-11th-gen-i5-1135g7-quad-core-4-core-2-40-ghz-8-gb-ram-512-gb-ssd-dreamy-white-transparent-silver"/>
+    <title>Asus VivoBook S15 S533 S533EA-DH51-WH 15.6&quot; Notebook - Full HD - 1920 x 1080 - Intel Core i5 (11th Gen) i5-1135G7 Quad-core (4 Core) 2.40 GHz - 8 GB RAM - 512 GB SSD - Dreamy White, Transparent Silver</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1065590055.jpg?v=1629398235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1058.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ASUS VivoBook, a perennial favorite, is getting a new, bolder look thats sure to get pulses racing. The slim and lightweight VivoBook S15 now features an 11th Generation Intel Core Processor, diamond-cut edges and a textured finish, and is available in four distinct colors that have been chosen to reflect your personality. The positive vibes continue when you open the lid, where youre greeted by an Enter key with color-blocking edges. VivoBook S15 brings out the true you, both inside and out. The actual transfer speed of USB 3.0, 3.1, 3.2 (Gen 1 and 2), and/or Type-C will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to system configuration and your operating environment.</p><ul>
+<br><li>Intel Core i5 2.40 GHz processor provides great performance, immersive multimedia and rapid loading of programs</li>
+<br><li>With 8 GB memory, you can multitask between various applications without issue</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585991266402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1058.99</s:price>
+      <s:sku>371A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585991200866</id>
+    <published>2021-08-19T14:36:55-04:00</published>
+    <updated>2021-08-19T14:36:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-17-s712-s712ua-ds51-ca-17-3-notebook-full-hd-1920-x-1080-amd-ryzen-5-5500u-hexa-core-6-core-2-10-ghz-12-gb-ram-1-tb-hdd-128-gb-ssd-transparent-silver"/>
+    <title>Asus VivoBook 17 S712 S712UA-DS51-CA 17.3&quot; Notebook - Full HD - 1920 x 1080 - AMD Ryzen 5 5500U Hexa-core (6 Core) 2.10 GHz - 12 GB RAM - 1 TB HDD - 128 GB SSD - Transparent Silver</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066852994.jpg?v=1629398228"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1001.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether at work or play, ASUS VivoBook S17 is the compact laptop that immerses you in whatever you set out to do. Its new frameless four-sided NanoEdge display boasts an ultraslim bezel, giving an amazing 85% screen-to-body ratio for supremely immersive visuals. The ErgoLift hinge design also tilts the keyboard up for more comfortable typing. VivoBook S17 is powered by an AMD Ryzen Processor to help you get things done with the least amount of fuss. The actual transfer speed of USB 3.0, 3.1 (Gen 1 and 2), and/or Type-C will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to system configuration and your operating environment.</p><ul>
+<br><li>With 12 GB memory, you can multitask between various applications without issue</li>
+<br><li>Exceptionally large 17.3" diagonal display provides 1920 x 1080 resolution</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585991200866</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1001.99</s:price>
+      <s:sku>372A1B</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990905954</id>
+    <published>2021-08-19T14:36:42-04:00</published>
+    <updated>2021-08-19T14:36:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-flip-14-tm420-tm420ua-ds51t-ca-14-touchscreen-2-in-1-notebook-full-hd-1920-x-1080-amd-ryzen-5-5500u-hexa-core-6-core-2-10-ghz-8-gb-ram-512-gb-ssd-bespoke-black"/>
+    <title>Asus VivoBook Flip 14 TM420 TM420UA-DS51T-CA 14&quot; Touchscreen 2 in 1 Notebook - Full HD - 1920 x 1080 - AMD Ryzen 5 5500U Hexa-core (6 Core) 2.10 GHz - 8 GB RAM - 512 GB SSD - Bespoke Black</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066852995.jpg?v=1629398216"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            942.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ASUS VivoBook Flip 14 is a convertible laptop thats full of personality, sporting a sleek Bespoke Black finish and a color-blocked Enter key with yellow edges and text. Ready for performance, VivoBook Flip 14 is powered by up to an AMD Ryzen 7 5700 mobile processor with 8GB memory and features a up to 512GB PCIe" SSD. A sturdy 360" hinge holds the display firmly at any angle, giving you the flexibility to use VivoBook Flip 14 as a traditional laptop, a tablet, or anything in between.</p><ul>
+<br><li>With 8 GB DDR4 SDRAM memory, you can multitask seamlessly between various applications without issue</li>
+<br><li>The 14" 1920 x 1080 screen provides a great movie watching experience</li>
+<br><li>Windows 10 Home comes with improved 2 x 2 snapping, helps you make more productive at work</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990905954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">942.99</s:price>
+      <s:sku>373A1B</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990709346</id>
+    <published>2021-08-19T14:36:36-04:00</published>
+    <updated>2021-08-19T14:36:36-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-chromebook-flip-c436-c436fa-ds599t-w-14-touchscreen-chromebook-full-hd-1920-x-1080-intel-core-i5-10th-gen-i5-10210u-1-60-ghz-16-gb-ram-512-gb-ssd-black-aerogel-white"/>
+    <title>Asus Chromebook Flip C436 C436FA-DS599T-W 14&quot; Touchscreen Chromebook - Full HD - 1920 x 1080 - Intel Core i5 (10th Gen) i5-10210U 1.60 GHz - 16 GB RAM - 512 GB SSD - Black, Aerogel White</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1062331937.jpg?v=1629398211"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1524.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p>Introducing the all-new Flagship ASUS Chromebook Flip C436, a Chromebook featuring a durable 360-degree hinge, quad-speakers, Wi-Fi 6 compatibility, fingerprint security, 14 inch display, 4-sided "frameless" NanoEdge Display, all metal finish, and USB Type-C made to fit a content creator, programmer and power seekers. Experience an ultrabook spec Chromebook that has the power and flexibility to get everything done. *The actual transfer speed of USB 3.0, 3.1 (Gen 1 and 2), and/or Type-C will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to  system configuration and your operating environment.</p><ul>
+<br><li>A perfect companion for a content creator, programmer and power seeker powered by the Intel Core i5-10210U Processor (6M Cache, up to 4.2 GHz)</li>
+<br><li>512GB PCIe NVMe M.2 SSD and 16GB RAM, Gig+ Wi-Fi 6 (802.11ax) + Bluetooth 5.0</li>
+<br><li>14 inch touchscreen Full HD (1920x1080) 4-sided NanoEdge Display</li>
+<br><li>A durable 360 degree hinge that can be used to flip the touchscreen display to tent, stand, and tablet mode</li>
+<br><li>2x USB Type-C (Gen 1) ports plus an illuminated keyboard (*USB Transfer speed may vary. Learn more at ASUS website)</li>
+<br><li>The lightweight (2.58 lbs) magnesium-alloy chassis body makes the C436 both durable and beautiful</li>
+<br><li>Built-in quad-speakers powered by Harman Kardon</li>
+<br><li>Chromebook runs on Chrome OS and has all the Google apps. You can edit, download, and convert Microsoft Office files in Google Docs, Sheets and Slides.</li>
+<br><li>Chromebooks come with built-in storage for offline access to your most important files and a 12-month Google One trial that gives you additional storage across Gmail, Google Drive and Google Photos</li>
+<br><li>Laptop sleeve incl</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990709346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1524.99</s:price>
+      <s:sku>373PPX</s:sku>
+      <s:grams>33</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990676578</id>
+    <published>2021-08-19T14:36:31-04:00</published>
+    <updated>2021-08-19T14:36:31-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-flip-14-tm420-tm420ua-ds71t-ca-14-touchscreen-2-in-1-notebook-full-hd-1920-x-1080-amd-ryzen-7-5700u-octa-core-8-core-1-80-ghz-8-gb-ram-512-gb-ssd-bespoke-black"/>
+    <title>Asus VivoBook Flip 14 TM420 TM420UA-DS71T-CA 14&quot; Touchscreen 2 in 1 Notebook - Full HD - 1920 x 1080 - AMD Ryzen 7 5700U Octa-core (8 Core) 1.80 GHz - 8 GB RAM - 512 GB SSD - Bespoke Black</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066852996.jpg?v=1629398206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1174.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><ul>
+<br><li>With 8 GB DDR4 SDRAM memory, you can multitask seamlessly between various applications without issue</li>
+<br><li>The 14" 1920 x 1080 screen provides a great movie watching experience</li>
+<br><li>With Windows 10 Home edition, enjoy your favorite content all at once on a larger view edge browser. Share your thoughts with the world by writing directly on web pages.</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990676578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1174.99</s:price>
+      <s:sku>374A1B</s:sku>
+      <s:grams>43</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990643810</id>
+    <published>2021-08-19T14:36:25-04:00</published>
+    <updated>2021-08-19T14:36:25-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-zenbook-13-ux325-ux325ea-ds51-13-3-rugged-notebook-full-hd-1920-x-1080-intel-core-i5-11th-gen-i5-1135g7-quad-core-4-core-2-40-ghz-8-gb-ram-256-gb-ssd-pine-gray"/>
+    <title>Asus ZenBook 13 UX325 UX325EA-DS51 13.3&quot; Rugged Notebook - Full HD - 1920 x 1080 - Intel Core i5 (11th Gen) i5-1135G7 Quad-core (4 Core) 2.40 GHz - 8 GB RAM - 256 GB SSD - Pine Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066853001.jpg?v=1629398199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1290.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The beautiful new ZenBook 13 OLED brings you visuals like youve never experienced before. Its also more portable than ever, weighing only 2.45lb with a 13.9 mm-thin profile. Even though Its thinner, lighter, and incredibly compact, it includes HDMI, Thunderbolt 4 USB-C" , USB Type-A and a microSD card reader for unrivaled versatility. Built to deliver powerful performance and true-to-life visuals, ZenBook 13 OLED is your perfect choice for an effortless on-the-go lifestyle.</p><ul>
+<br><li>Intel Core i5 2.40 GHz processor provides great performance, immersive multimedia and rapid loading of programs</li>
+<br><li>With 8 GB LPDDR4X memory, you can multitask seamlessly between various applications without issue</li>
+<br><li>The 13.3" 1920 x 1080 screen provides a great movie watching experience</li>
+<br><li>With Windows 10 Home edition, enjoy your favorite content all at once on a larger view edge browser. Share your thoughts with the world by writing directly on web pages.</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990643810</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1290.99</s:price>
+      <s:sku>376A1B</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990611042</id>
+    <published>2021-08-19T14:36:20-04:00</published>
+    <updated>2021-08-19T14:36:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-zenbook-13-ux325-ux325ea-es71-ca-13-3-rugged-notebook-full-hd-1920-x-1080-intel-core-i7-11th-gen-i7-1165g7-quad-core-4-core-2-80-ghz-16-gb-ram-512-gb-ssd-pine-gray"/>
+    <title>Asus ZenBook 13 UX325 UX325EA-ES71-CA 13.3&quot; Rugged Notebook - Full HD - 1920 x 1080 - Intel Core i7 (11th Gen) i7-1165G7 Quad-core (4 Core) 2.80 GHz - 16 GB RAM - 512 GB SSD - Pine Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066853002.jpg?v=1629398194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1524.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The beautiful new ZenBook 13 is more portable than ever. Its thinner, lighter, and incredibly compact, yet includes HDMI, Thunderbolt 4 USB-C" , USB Type-A and MicroSD card reader for unrivaled versatility. Built to deliver powerful performance, ZenBook 13 is your perfect choice for an effortless on-the-go lifestyle.</p><ul>
+<br><li>Intel Core i7 2.80 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games</li>
+<br><li>With 16 GB LPDDR4X of memory, runs as many programs as you want without losing the execution</li>
+<br><li>The 13.3" 1920 x 1080 screen provides a great movie watching experience</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990611042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1524.99</s:price>
+      <s:sku>377A1B</s:sku>
+      <s:grams>31</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990578274</id>
+    <published>2021-08-19T14:36:11-04:00</published>
+    <updated>2021-08-19T14:36:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-zenbook-14-ux435-ux435eg-xh74-14-rugged-notebook-full-hd-1920-x-1080-intel-core-i7-11th-gen-i7-1165g7-quad-core-4-core-2-80-ghz-16-gb-ram-512-gb-ssd-pine-gray"/>
+    <title>Asus ZenBook 14 UX435 UX435EG-XH74 14&quot; Rugged Notebook - Full HD - 1920 x 1080 - Intel Core i7 (11th Gen) i7-1165G7 Quad-core (4 Core) 2.80 GHz - 16 GB RAM - 512 GB SSD - Pine Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066008193.jpg?v=1629398185"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1873.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The lightweight ZenBook 14 combines superb performance and effortless portability with timeless good looks. Weighing as little as 2.84lb, ZenBook 14 includes the revolutionary ASUS ScreenPad 2.0 for enhanced productivity and is powered by 11th Gen Intel Core processors and NVIDIA GeForce MX450 discrete graphics. With up to 16 hours of battery life, ZenBook 14 helps you get more done, wherever you are.</p><ul>
+<br><li>Intel Core i7 2.80 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games</li>
+<br><li>With 16 GB of memory, users can run many programs without losing execution</li>
+<br><li>The 14" 1920 x 1080 screen provides a great movie watching experience</li>
+<br><li>NVIDIA GeForce MX450 Up to 2 GB discrete graphic card provides excellent ability in a variety of multimedia applications and user experiences</li>
+<br><li>Windows 10 Pro comes with improved 2 x 2 snapping, helps you make more productive at work</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990578274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1873.99</s:price>
+      <s:sku>378A1B</s:sku>
+      <s:grams>34</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990512738</id>
+    <published>2021-08-19T14:36:06-04:00</published>
+    <updated>2021-08-19T14:36:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-zenbook-duo-14-ux482-ux482ea-ds71t-ca-14-touchscreen-rugged-notebook-full-hd-1920-x-1080-intel-core-i7-11th-gen-i7-1165g7-quad-core-4-core-2-80-ghz-16-gb-ram-512-gb-ssd-celestial-blue"/>
+    <title>Asus ZenBook Duo 14 UX482 UX482EA-DS71T-CA 14&quot; Touchscreen Rugged Notebook - Full HD - 1920 x 1080 - Intel Core i7 (11th Gen) i7-1165G7 Quad-core (4 Core) 2.80 GHz - 16 GB RAM - 512 GB SSD - Celestial Blue</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066853003.jpg?v=1629398181"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2107.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ASUS ZenBook Duo 14 UX482 lets you get things done in style: calmly, efficiently, and with zero fuss. The 4K secondary touchscreen works seamlessly with the main 14 inch Full HD touchscreen, giving you endless ways to optimize and personalize your workflow. It's your powerful and elegant next-level companion for on-the-go productivity and creativity, featuring the brand-new tilting ScreenPad Plus secondary display that offers effortless ergonomics and seamless workflows. A series of handy built-in apps help boost your productivity. Quick Key allows one-tap automation of complex keyboard sequences, and Handwriting lets you input text intuitively. There are also useful quick controls such as App Switcher, ViewMax and Task Swap for intuitive interactions between the main display and ScreenPad Plus. Task Group lets you lock into work mode by opening multiple tasks with a single touch. And now you can drag apps or in-app toolbars onto ScreenPad Plus to give you more room to work on the main display, wherever you are. Take notes, sketch out your ideas, or do precision graphical editing in the most intuitive way ever. Powered by the latest 11th Gen Intel" Core processors, ZenBook Duo 14 brings you all the benefits of tomorrow's technology, today. This ultra-powerful combination ensures that ZenBook Duo 14 takes professional-quality tasks in its stride, such as multi-layer photo or video editing, 3D graphics rendering. The actual transfer speed of USB 3.2 (Gen 1 and 2), and/or Thunderbolt will vary depending on many factors including the processing speed of the host device, file attributes and other factors related to system configuration and your operating environment.</p><ul>
+<br><li>Intel Core i7 2.80 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games</li>
+<br><li>With 16 GB of memory, runs as many programs as you want without losing the execution</li>
+<br><li>The 14" 1920 x 1080 screen provides a great movie watching experience</li>
+<br><li>With Windows 10 Home edition, enjoy your favorite content all at once on a larger view edge browser. Share your thoughts with the world by writing directly on web pages.</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990512738</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2107.99</s:price>
+      <s:sku>379A1B</s:sku>
+      <s:grams>44</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990447202</id>
+    <published>2021-08-19T14:35:57-04:00</published>
+    <updated>2021-08-19T14:35:57-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-zenbook-15-ux535-ux535li-xh77t-15-6-touchscreen-rugged-notebook-full-hd-1920-x-1080-intel-core-i7-10th-gen-i7-10750h-hexa-core-6-core-2-60-ghz-16-gb-ram-256-gb-ssd-pine-gray"/>
+    <title>Asus ZenBook 15 UX535 UX535LI-XH77T 15.6&quot; Touchscreen Rugged Notebook - Full HD - 1920 x 1080 - Intel Core i7 (10th Gen) i7-10750H Hexa-core (6 Core) 2.60 GHz - 16 GB RAM - 256 GB SSD - Pine Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1065700244.jpg?v=1629398174"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2342.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ZenBook Pro 15 is engineered for powerful productivity and primed to help you create, anywhere, any time. The revolutionary ASUS ScreenPad touchscreen puts control right at your fingertips, while the Intel Core i7-10750H processor and NVIDIA GeForce GTX 1650 Ti discrete graphics team up to deliver serious performance. With up to a stunning optional 15-inch NanoEdge 4K UHD OLED touchscreen display and an 88% screen-to-body ratio, ZenBook Pro 15 has all the screen real estate and accuracy you need to realize creative vision.</p><ul>
+<br><li>Intel Core i7 2.60 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games</li>
+<br><li>With 16 GB of memory, users can run many programs without losing execution</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>NVIDIA GeForce GTX 1650 Ti Up to 4 GB discrete graphic card provides excellent ability in a variety of multimedia applications and user experiences</li>
+<br><li>Windows 10 Pro can be best fit for both home and office and it features an improved 2 x 2 snapping, helps you make more productive on desktops</li>
+<br><li>15.90 Hour battery run time helps you stay unwired and work longer non-stop</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990447202</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2342.99</s:price>
+      <s:sku>380A1B</s:sku>
+      <s:grams>57</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990414434</id>
+    <published>2021-08-19T14:35:51-04:00</published>
+    <updated>2021-08-19T14:35:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-15-x515-x515ea-qs32-ca-15-6-notebook-full-hd-1920-x-1080-intel-core-i3-11th-gen-i3-1115g4-dual-core-2-core-3-ghz-8-gb-ram-256-gb-ssd-slate-gray"/>
+    <title>Asus VivoBook 15 X515 X515EA-QS32-CA 15.6&quot; Notebook - Full HD - 1920 x 1080 - Intel Core i3 (11th Gen) i3-1115G4 Dual-core (2 Core) 3 GHz - 8 GB RAM - 256 GB SSD - Slate Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            760.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p>Whether for work or play, ASUS VivoBook X515 is the entry-level laptop that delivers powerful performance and immersive visuals. It's NanoEdge display boasts wide 178 degree viewing angles.</p><ul>
+<br><li>Intel Core i3 3 GHz works smartly and well responsive to let you swiftly use multiple applications</li>
+<br><li>With 8 GB memory, you can multitask between various applications without issue</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home can be the best fit for both home and office and it features an improved 2 x 2 snapping, helps you make more productive on desktops</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990414434</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">760.99</s:price>
+      <s:sku>381A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990348898</id>
+    <published>2021-08-19T14:35:43-04:00</published>
+    <updated>2021-08-19T14:35:43-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-15-x515-x515ea-qs52-ca-15-6-notebook-full-hd-1920-x-1080-intel-core-i5-11th-gen-i5-1135g7-quad-core-4-core-2-40-ghz-8-gb-ram-256-gb-ssd-slate-gray"/>
+    <title>Asus VivoBook 15 X515 X515EA-QS52-CA 15.6&quot; Notebook - Full HD - 1920 x 1080 - Intel Core i5 (11th Gen) i5-1135G7 Quad-core (4 Core) 2.40 GHz - 8 GB RAM - 256 GB SSD - Slate Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066853078.jpg?v=1629398156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            990.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Whether for work or play, ASUS VivoBook X515 is the entry - level laptop that delivers powerful performance and immersive visuals. It's NanoEdge display boasts wide 178 degree viewing angles.</p><ul>
+<br><li>Intel Core i5 2.40 GHz processor provides great performance, immersive multimedia and rapid loading of programs</li>
+<br><li>With 8 GB DDR4 SDRAM memory, you can multitask seamlessly between various applications without issue</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home can be the best fit for both home and office and it features an improved 2 x 2 snapping, helps you make more productive on desktops</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990348898</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">990.99</s:price>
+      <s:sku>383A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990250594</id>
+    <published>2021-08-19T14:35:38-04:00</published>
+    <updated>2021-08-19T14:35:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-15-x515-x515ea-qs52-cb-15-6-notebook-full-hd-1920-x-1080-intel-core-i5-11th-gen-i5-1135g7-quad-core-4-core-2-40-ghz-8-gb-ram-256-gb-ssd-slate-gray"/>
+    <title>Asus VivoBook 15 X515 X515EA-QS52-CB 15.6&quot; Notebook - Full HD - 1920 x 1080 - Intel Core i5 (11th Gen) i5-1135G7 Quad-core (4 Core) 2.40 GHz - 8 GB RAM - 256 GB SSD - Slate Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            986.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p>Whether for work or play, ASUS VivoBook X515 is the entry-level laptop that delivers powerful performance and immersive visuals. It's NanoEdge display boasts wide 178 degree viewing angles.</p><ul>
+<br><li>Intel Core i5 2.40 GHz processor provides great performance, immersive multimedia and rapid loading of programs</li>
+<br><li>With 8 GB DDR4 SDRAM memory, you can multitask seamlessly between various applications without issue</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home comes with improved 2 x 2 snapping, helps you make more productive at work</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990250594</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">986.99</s:price>
+      <s:sku>384A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990217826</id>
+    <published>2021-08-19T14:35:29-04:00</published>
+    <updated>2021-08-19T14:35:29-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-15-x515-x515ea-qs72-cb-15-6-notebook-full-hd-1920-x-1080-intel-core-i7-11th-gen-i7-1165g7-quad-core-4-core-2-80-ghz-16-gb-ram-512-gb-ssd-slate-gray"/>
+    <title>Asus VivoBook 15 X515 X515EA-QS72-CB 15.6&quot; Notebook - Full HD - 1920 x 1080 - Intel Core i7 (11th Gen) i7-1165G7 Quad-core (4 Core) 2.80 GHz - 16 GB RAM - 512 GB SSD - Slate Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066853080.jpg?v=1629398146"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1278.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p>Whether for work or play, ASUS VivoBook X515 is the entry-level laptop that delivers powerful performance and immersive visuals. It's NanoEdge display boasts wide 178 degree viewing angles.</p><ul>
+<br><li>Intel Core i7 2.80 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games</li>
+<br><li>With 16 GB of memory, runs as many programs as you want without losing the execution</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home comes with improved 2 x 2 snapping, helps you make more productive at work</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990217826</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1278.99</s:price>
+      <s:sku>385A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990119522</id>
+    <published>2021-08-19T14:35:24-04:00</published>
+    <updated>2021-08-19T14:35:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-15-x515-x515ma-qsc1-cb-15-6-notebook-hd-1366-x-768-intel-celeron-n4020-dual-core-2-core-1-10-ghz-8-gb-ram-256-gb-ssd-slate-gray"/>
+    <title>Asus VivoBook 15 X515 X515MA-QSC1-CB 15.6&quot; Notebook - HD - 1366 x 768 - Intel Celeron N4020 Dual-core (2 Core) 1.10 GHz - 8 GB RAM - 256 GB SSD - Slate Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066853081.jpg?v=1629398142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            529.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p>Whether for work or play, ASUS VivoBook X515 is the entry-level laptop that delivers powerful performance and immersive visuals. It's NanoEdge display boasts wide 178 degree viewing angles.</p><ul>
+<br><li>Experience responsive performance, power, adaptability and fun with Intel® Celeron™ 1.10 GHz processor</li>
+<br><li>With 8 GB memory, you can multitask between various applications without issue</li>
+<br><li>15.6" display with 1366 x 768 resolution showcases movies, games and photos with impressive clarity</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990119522</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">529.99</s:price>
+      <s:sku>386A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990053986</id>
+    <published>2021-08-19T14:35:20-04:00</published>
+    <updated>2021-08-19T14:35:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-vivobook-15-x515-x515ma-qsp2-cb-15-6-notebook-hd-1366-x-768-intel-pentium-n5030-quad-core-4-core-1-10-ghz-8-gb-ram-512-gb-ssd-slate-gray"/>
+    <title>Asus VivoBook 15 X515 X515MA-QSP2-CB 15.6&quot; Notebook - HD - 1366 x 768 - Intel Pentium N5030 Quad-core (4 Core) 1.10 GHz - 8 GB RAM - 512 GB SSD - Slate Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066853082.jpg?v=1629398134"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            695.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p>Whether for work or play, ASUS VivoBook X515 is the entry-level laptop that delivers powerful performance and immersive visuals. It's NanoEdge display boasts wide 178 degree viewing angles.</p><ul>
+<br><li>Intel Pentium 1.10 GHz processor provides splendid PC performance as you multitask easily, communicate with friends and family, enjoy entertainment, and complete your work</li>
+<br><li>8 GB DDR4 SDRAM memory is ready to run powerful programs with efficient multitasking</li>
+<br><li>15.6" display with 1366 x 768 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home comes with improved 2 x 2 snapping, helps you make more productive at work</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990053986</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">695.99</s:price>
+      <s:sku>387A1B</s:sku>
+      <s:grams>51</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585990021218</id>
+    <published>2021-08-19T14:35:15-04:00</published>
+    <updated>2021-08-19T14:35:15-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/tuf-fx505-fx505dt-qs72-cb-15-6-gaming-notebook-full-hd-1920-x-1080-amd-ryzen-7-3750h-2-30-ghz-8-gb-ram-256-gb-ssd-stealth-black"/>
+    <title>TUF FX505 FX505DT-QS72-CB 15.6&quot; Gaming Notebook - Full HD - 1920 x 1080 - AMD Ryzen 7 3750H 2.30 GHz - 8 GB RAM - 256 GB SSD - Stealth Black</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066852974.jpg?v=1629398129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1132.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>ASUS TUF Gaming FX505 is a powerful Windows 10 gaming laptop that combines gaming performance with up to a narrow bezel IPS-type panel and an extended lifespan, thanks to its patented Anti-Dust Cooling (ADC) system. Equipped with NVIDIA GeForce GTX 16-series graphics and a quad-core Ryzen 7 processor, FX505 is able to play the latest games and multitask with ease. FX505 features one of the fastest Wi-Fi standards available  the latest Intel Wave 2 Wi-Fi 5 (802.11ac) boasts data transfer rates of up to an incredible 1.7Gbps. To top it all off, its backlit gaming keyboard is rated at 20-million keystroke durability.</p><ul>
+<br><li>With 8 GB memory, you can multitask between various applications without issue</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Experience lag-free and smooth performance with NVIDIA GeForce GTX 1650 Up to 4 GB graphic card</li>
+<br><li>Windows 10 Home can be the best fit for both home and office and it features an improved 2 x 2 snapping, helps you make more productive on desktops</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585990021218</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1132.99</s:price>
+      <s:sku>388A1B</s:sku>
+      <s:grams>62</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585989988450</id>
+    <published>2021-08-19T14:35:11-04:00</published>
+    <updated>2021-08-19T14:35:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-rog-strix-g15-g512-g512li-ds72-ca-15-6-gaming-notebook-full-hd-1920-x-1080-intel-core-i7-10th-gen-i7-10870h-octa-core-8-core-2-20-ghz-16-gb-ram-1-tb-ssd-original-black"/>
+    <title>Asus ROG Strix G15 G512 G512LI-DS72-CA 15.6&quot; Gaming Notebook - Full HD - 1920 x 1080 - Intel Core i7 (10th Gen) i7-10870H Octa-core (8 Core) 2.20 GHz - 16 GB RAM - 1 TB SSD - Original Black</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1758.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>The ROG Strix G15 embodies streamlined design, offering a formidable core experience for serious gaming and multitasking on Windows 10 Pro. Featuring the latest 10th Gen Intel" Core i7 CPU and a GeForce RTX GPU, it offers high-FPS power that takes full advantage of its high refresh rate display. Intelligent cooling innovations like liquid metal take performance to another level. Ultrafast Wi-Fi 6 connectivity and space for a third SSD means you can carry your complete collection everywhere you go.</p><ul>
+<br><li>Intel Core i7 2.20 GHz processor provides lightning fast speed and peak performance for the toughest of tasks and games</li>
+<br><li>With 16 GB of memory, users can run many programs without losing execution</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home comes with improved 2 x 2 snapping, helps you make more productive at work</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585989988450</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1758.99</s:price>
+      <s:sku>389A1B</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585989955682</id>
+    <published>2021-08-19T14:35:02-04:00</published>
+    <updated>2021-08-19T14:35:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-rog-strix-g15-g513-g513qm-es74-15-6-gaming-notebook-full-hd-1920-x-1080-amd-ryzen-7-5800h-3-ghz-16-gb-ram-512-gb-ssd-eclipse-gray"/>
+    <title>Asus ROG Strix G15 G513 G513QM-ES74 15.6&quot; Gaming Notebook - Full HD - 1920 x 1080 - AMD Ryzen 7 5800H 3 GHz - 16 GB RAM - 512 GB SSD - Eclipse Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066852978.jpg?v=1629398116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            1994.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><b>ROG STRIX G15</b></p> <p>The ROG Strix G15 embodies streamlined design, offering a formidable core experience for serious gaming and multitasking on Windows 10 Home. Featuring up to the latest 5th Gen AMD Ryzen CPU and a NVIDIA GeForce GPU, it offers high-FPS power that takes full advantage of up to a blazing fast display</p> <p><b>Power Up with the Next Generation</b><br><br>The powerful 10th gen Intel Core CPU paired with NVIDIA GeForce GPU powersthrough intensive work and play. Space for three total SSDs means you can easily expand your storage and take your complete program library with you anywhere.</p> <p><b>Game at Professional Speed</b><br><br>An ultrafast 144Hz refresh rate makes the flow of fast-paced action look impeccably smooth.</p><ul>
+<br><li>With 16 GB DDR4 SDRAM of memory, users can run many programs without losing execution</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Experience lag-free and smooth performance with NVIDIA GeForce RTX3060 Up to 6 GB graphic card</li>
+<br><li>With Windows 10 Home edition, enjoy your favorite content all at once on a larger view edge browser. Share your thoughts with the world by writing directly on web pages.</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585989955682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1994.99</s:price>
+      <s:sku>390A1B</s:sku>
+      <s:grams>65</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585989890146</id>
+    <published>2021-08-19T14:34:52-04:00</published>
+    <updated>2021-08-19T14:34:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-rog-strix-scar-15-g533-g533qs-ds76-15-6-gaming-notebook-full-hd-1920-x-1080-amd-ryzen-7-5800h-3-ghz-16-gb-ram-1-tb-ssd-black"/>
+    <title>Asus ROG Strix SCAR 15 G533 G533QS-DS76 15.6&quot; Gaming Notebook - Full HD - 1920 x 1080 - AMD Ryzen 7 5800H 3 GHz - 16 GB RAM - 1 TB SSD - Black</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066852979.jpg?v=1629398105"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3507.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><b>ROG SCAR 15 (2021)</b></p> <p>Exceptional speed, power, and performance elevate the ROG Strix SCAR 15 to the toptier of Windows 10 gaming. The latest 5th Gen AMD Ryzen processors and powerful GeForce graphics saturate the cutting-edge 300Hz/3ms gaming panel that takes you to the next frontier of pro esports speed.</p> <p><b>Power Up with the"</b><b>Next Generation</b></p> <p>Accelerate work and play on a machine tailored to deliver triple-digit frame rates. Leading-edge GeForce RTX graphics enable ultrafast and fluid gameplay. An overclockable AMD CPU paired with ultra-fast DDR4 RAM slices through heavyworkloads and multitasking.</p> <p><b>Game at Professional Speed</b></p> <p>An ultrafast 300Hz refresh rate makes the flow of fast-paced action look impeccably smooth,while the 3ms grey-to-grey response time minimizes motion blur for precision target tracking.</p><ul>
+<br><li>With 16 GB DDR4 SDRAM of memory, runs as many programs as you want without losing the execution</li>
+<br><li>15.6" display with 1920 x 1080 resolution showcases movies, games and photos with impressive clarity</li>
+<br><li>Windows 10 Home comes with improved 2 x 2 snapping, helps you make more productive at work</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585989890146</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">3507.99</s:price>
+      <s:sku>391A1B</s:sku>
+      <s:grams>71</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6585989857378</id>
+    <published>2021-08-19T14:34:46-04:00</published>
+    <updated>2021-08-19T14:34:46-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/asus-rog-strix-g17-g713-g713qr-es76-17-3-gaming-notebook-wqhd-2560-x-1440-amd-ryzen-7-5800h-3-20-ghz-16-gb-ram-1-tb-ssd-eclipse-gray"/>
+    <title>Asus ROG Strix G17 G713 G713QR-ES76 17.3&quot; Gaming Notebook - WQHD - 2560 x 1440 - AMD Ryzen 7 5800H 3.20 GHz - 16 GB RAM - 1 TB SSD - Eclipse Gray</title>
+    <s:type></s:type>
+    <s:vendor>ASUS Computer International</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1066852980.jpg?v=1629398097"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>ASUS Computer International<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            2576.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p></p><p><b>ROG STRIX G17</b></p> <p>The ROG Strix G17 embodies streamlined design, offering a formidable core experience for serious gaming and multitasking on Windows 10. Featuring up to the latest 5th Gen AMD Ryzen CPU and a NVIDIA GeForce GPU, it offers high-FPS power that takes full advantage ofup to a blazing fast display</p> <p><b>Power Up with the Next Generation</b></p> <p>An ultrafast 165Hz refresh rate makes the flow of fast-paced action look impeccably smooth,while the 3ms grey-to-grey response time minimizes motion blur for precision target tracking. The NVIDIA GeForce RTX GPU delivers smooth frame rates, while the AMD Ryzen5000 series CPU powers through heavy lifting or multitasking</p> <p><b>Streamlined Design</b></p> <p>Play anywhere on a chassis thats up to 7% smaller and more portable than previous generations. Illuminate your environment with Aura Sync accents that shine from the metallic ROG logo, across the backlit keyboard, to the wrap around light bar</p><ul>
+<br><li>With 16 GB of memory, users can run many programs without losing execution</li>
+<br><li>Exceptionally large 17.3" diagonal display provides 2560 x 1440 resolution</li>
+<br><li>With Windows 10 Home edition, enjoy your favorite content all at once on a larger view edge browser. Share your thoughts with the world by writing directly on web pages.</li>
+<br>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6585989857378</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">2576.99</s:price>
+      <s:sku>392A1B</s:sku>
+      <s:grams>77</s:grams>
+    </s:variant>
+  </entry>
+</feed>

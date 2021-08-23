@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/smart-watches-wearables.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-06-23T15:54:20-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6569815441506</id>
+    <published>2021-06-23T15:54:20-04:00</published>
+    <updated>2021-06-23T15:54:20-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/razer-anzu-smart-bluetooth-audio-sunglasses-black-small-medium"/>
+    <title>Razer Anzu Smart Bluetooth Audio Sunglasses - Black (Small &amp; Medium)</title>
+    <s:type>Smart Glasses</s:type>
+    <s:vendor>Razer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/f4a32d895d124dacdd4b8684b37e762b.jpg?v=1624663357"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Razer<br>
+        <strong>Type: </strong>Smart Glasses<br>
+        <strong>Price: </strong>
+            209.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 810056141912<br> <strong>Model No:</strong> RZ82-03630600-R3U1<br> <strong>Condition: </strong>New</p>
+<p><strong>Size: </strong>Small &amp; Medium<br> <strong>Frame:</strong> Square</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6569815441506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">209.99</s:price>
+      <s:sku>810056141912</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6559051972706</id>
+    <published>2021-05-17T17:17:55-04:00</published>
+    <updated>2021-05-17T17:17:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/tile-sticker-2020-bluetooth-item-tracker-2-pack-black-re-25002"/>
+    <title>Tile Sticker Bluetooth Item Tracker - 2 Pack - Black (RE-25002)</title>
+    <s:type>Smart Watches &amp; Wearables</s:type>
+    <s:vendor>Tile</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/819039021173.jpg?v=1624235239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tile<br>
+        <strong>Type: </strong>Smart Watches &amp; Wearables<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>UPC:</strong> 819039021173 <br><strong>Model:</strong> RE-25002 <br><strong>Year:</strong> 2020 <br><strong>Condition:</strong> New</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6559051972706</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>819039021173</s:sku>
+      <s:grams>454</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6558641946722</id>
+    <published>2021-05-14T15:08:52-04:00</published>
+    <updated>2021-05-14T15:08:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/tile-mate-bluetooth-item-tracker-white-re-19001"/>
+    <title>Tile Mate Bluetooth Item Tracker - White (RE-19001)</title>
+    <s:type>Smart Watches &amp; Wearables</s:type>
+    <s:vendor>Tile</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/6370635ld.jpg?v=1624235212"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tile<br>
+        <strong>Type: </strong>Smart Watches &amp; Wearables<br>
+        <strong>Price: </strong>
+            25.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>UPC: </strong>819039021111 <br data-mce-fragment="1"><strong>Model: </strong>RE-19001 <br data-mce-fragment="1"><strong>Production Year:</strong> 2020</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6558641946722</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.99</s:price>
+      <s:sku>819039021111</s:sku>
+      <s:grams>227</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4362792370274</id>
+    <published>2020-02-06T14:57:11-05:00</published>
+    <updated>2020-02-06T14:57:11-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/fitbit-hr-and-alta-leather-accessory-band-brown-large"/>
+    <title>Fitbit HR and Alta Leather Accessory Band - Brown (Large)</title>
+    <s:type>Smart Watches</s:type>
+    <s:vendor>Fitbit</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/4b44e6938e7a1bb12b71a13c77f539a2.jpg?v=1624230194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fitbit<br>
+        <strong>Type: </strong>Smart Watches<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 816137023764<br>
+<strong>Model No:</strong> FB163LBBRL</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Fitbit</s:tag>
+    <s:tag>fitbit HR Band</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4362792370274</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>816137023764</s:sku>
+      <s:grams>81</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/office-supplies.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-05-07T16:45:06-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6556962324578</id>
+    <published>2021-05-07T16:45:06-04:00</published>
+    <updated>2021-05-07T16:45:06-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/koh-i-noor-gioconda-24-piece-artist-set-packed-in-tin-and-blister-carded-8899-ot"/>
+    <title>Koh-I-Noor Gioconda 24-Piece Artist Set, Packed in Tin and Blister Carded (8899.OT)</title>
+    <s:type>Office Supplies</s:type>
+    <s:vendor>Koh-I-Noor</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/56460420312d3680ba68bb068e94b0a3.jpg?v=1624231418"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Koh-I-Noor<br>
+        <strong>Type: </strong>Office Supplies<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 014173373861<br>
+<strong>Model No:</strong> 8899.OT<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556962324578</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>014173373861</s:sku>
+      <s:grams>362</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556953837666</id>
+    <published>2021-05-07T15:45:55-04:00</published>
+    <updated>2021-05-07T15:45:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/tombow-abt-pro-alcohol-based-art-markers-nature-palette-12-pack"/>
+    <title>Tombow ABT PRO Alcohol-Based Art Markers - Nature Palette (12-Pack)</title>
+    <s:type>Office Supplies</s:type>
+    <s:vendor>Tombow</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/10632064_1.jpg?v=1624235248"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tombow<br>
+        <strong>Type: </strong>Office Supplies<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 085014569651<br><strong>Model:</strong> 56965</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556953837666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>085014569651</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556950593634</id>
+    <published>2021-05-07T15:31:08-04:00</published>
+    <updated>2021-05-07T15:31:08-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/faber-castell-soft-pastels-72pcs-128272"/>
+    <title>Faber-Castell Soft Pastels 72pcs (128272)</title>
+    <s:type>Drawing Supplies</s:type>
+    <s:vendor>Faber-Castell</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/Faber-Castell_Canada_128272_Softpastelsmini_cardboardwalletof72_720x_91f3552f-e647-4312-b1c2-ebae5639e159.jpg?v=1624230070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Faber-Castell<br>
+        <strong>Type: </strong>Drawing Supplies<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 092633805404 <br><strong>Model: </strong>128272T </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556950593634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>092633805404</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543934849122</id>
+    <published>2021-03-22T15:23:49-04:00</published>
+    <updated>2021-03-22T15:23:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/classic-lumio-fabric-the-original-foldable-book-lamp-orange-green"/>
+    <title>Classic Lumio Fabric: The Original Foldable Book Lamp (Orange/Green)</title>
+    <s:type>Office Supplies</s:type>
+    <s:vendor>Lumio</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/854f8edb1f715bc92ccaa71e858f4ef1.jpg?v=1624229351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lumio<br>
+        <strong>Type: </strong>Office Supplies<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 851498005042<br>
+<strong>Model No:</strong> </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543934849122</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">170.00</s:price>
+      <s:sku>851498005042</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/baby-maternity.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-06-30T20:22:55-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6572536430690</id>
+    <published>2021-06-30T20:22:55-04:00</published>
+    <updated>2021-06-30T20:22:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/miku-pro-smart-video-baby-monitor-with-breathing-sleep-tracking-mp-101a1"/>
+    <title>Miku Pro Smart Video Baby Monitor with Breathing &amp; Sleep Tracking (MP-101A1)</title>
+    <s:type>Baby Monitor</s:type>
+    <s:vendor>Miku</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/668a9ca5db569e9c423c269e9d7c0a7f.jpg?v=1625268173"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Miku<br>
+        <strong>Type: </strong>Baby Monitor<br>
+        <strong>Price: </strong>
+            499.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 860007002359<br>
+<strong>Model No:</strong> MP-101A1<br>
+<strong>Condition: </strong>New</p>
+
+<pre>
+Phone not included </pre>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6572536430690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">499.99</s:price>
+      <s:sku>860007002359</s:sku>
+      <s:grams>1343</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/perfume-cologne.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-03-22T15:06:32-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6543933177954</id>
+    <published>2021-03-22T15:06:32-04:00</published>
+    <updated>2021-03-22T15:06:32-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/hugo-boss-hugo-urban-journey-eau-de-toilette-2-5-oz-75-ml-eau-de-toilette-spray-1"/>
+    <title>HUGO BOSSMen&apos;s Urban Journey EDT 2.5 oz (75ml) Eau de Toilette</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>HUGO BOSS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/efcc4ee3f0f9a4f0b32297e327deeb58.jpg?v=1624231034"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HUGO BOSS<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 8005610672571<br>
+<strong>Model No:</strong> HUGO Urban Journey</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne</s:tag>
+    <s:tag>Hugo</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543933177954</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku>8005610672571</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4350887198818</id>
+    <published>2021-03-22T09:19:37-04:00</published>
+    <updated>2021-03-22T09:19:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/hugo-boss-hugo-urban-journey-eau-de-toilette-2-5-oz-75-ml-eau-de-toilette-spray"/>
+    <title>HUGO BOSSMen&apos;s Urban Journey EDT 2.5 oz (75ml) Eau de Toilette</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>HUGO BOSS</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/efcc4ee3f0f9a4f0b32297e327deeb58_614043f8-af5f-4177-978f-939335ebc097.jpg?v=1624231030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>HUGO BOSS<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            69.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 8005610672571<br>
+<strong>Model No:</strong> HUGO Urban Journey</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne</s:tag>
+    <s:tag>Hugo</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4350887198818</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.00</s:price>
+      <s:sku>8005610672571</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4361904717922</id>
+    <published>2020-02-04T15:58:08-05:00</published>
+    <updated>2020-02-04T15:58:08-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/gucci-bloom-eau-de-parfum-spray-1-6-oz-50-ml-eau-de-parfum-spray"/>
+    <title>GUCCI Bloom Eau de Parfum Spray 1.6 oz/ 50 mL Eau de Parfum Spray</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/8e6fb583da842f1419c7f63db84032e0.jpg?v=1624230842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 8005610481043<br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gucci</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4361904717922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>8005610481043</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4361904586850</id>
+    <published>2020-02-04T15:56:16-05:00</published>
+    <updated>2020-02-04T15:56:16-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/dior-miss-dior-blooming-bouquet-size-3-4-oz-100-ml"/>
+    <title>DIOR Miss Dior Blooming Bouquet SIZE 3.4 oz/ 100 mL</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>Dior</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/d6bab1506d6bdc6bb3b8553ab44036eb.png?v=1624229913"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Dior<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 3348900871991<br>
+<strong>Model No:</strong> F032624889</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dior</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4361904586850</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>3348900871991</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4360712192098</id>
+    <published>2020-01-30T13:44:19-05:00</published>
+    <updated>2020-01-30T13:44:19-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/prada-luna-rossa-sport-eau-de-toilette-100ml"/>
+    <title>PRADA Luna Rossa Sport Eau de Toilette - 100mL</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>PRADA</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/56add80f4c66b213f29a815842889561.png?v=1624233974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PRADA<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 8435137737819<br> <strong>Model No:</strong> </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Cologne</s:tag>
+    <s:tag>Prada</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4360712192098</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">80.00</s:price>
+      <s:sku>8435137737819</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4360707965026</id>
+    <published>2020-01-30T13:40:53-05:00</published>
+    <updated>2020-01-30T13:40:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/gucci-bloom-acqua-di-fiori-eau-de-toilette-50ml"/>
+    <title>Gucci Bloom Acqua di Fiori Eau de Toilette - 50ml</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/3c12e892d7901461179ceb271e95d6ab.jpg?v=1624230834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            85.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 3614226761491 <br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gucci</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4360707965026</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">85.00</s:price>
+      <s:sku>3614226761491</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4358404407394</id>
+    <published>2020-01-24T15:03:32-05:00</published>
+    <updated>2020-01-24T15:03:32-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/gucci-bloom-eau-de-parfum-spray-3-3-oz-100-ml-eau-de-parfum-spray"/>
+    <title>GUCCI Bloom Eau de Parfum Spray 3.3 oz/ 100 mL Eau de Parfum Spray</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/2ec1308beae41780ca7b42474b2a3d6e.jpg?v=1624230855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            122.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 8005610481005</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gucci</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4358404407394</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">122.99</s:price>
+      <s:sku>8005610481005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4353847787618</id>
+    <published>2020-01-13T14:20:25-05:00</published>
+    <updated>2020-01-13T14:20:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/gucci-bloom-nettare-di-fiori-eau-de-parfum-50ml"/>
+    <title>Gucci Bloom Nettare Di Fiori eau de parfum - 50ml</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/47e8327ff5dad745d28cb5487872e55f.jpg?v=1624230857"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            104.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 3614227570030</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gucci</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4353847787618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">104.99</s:price>
+      <s:sku>3614227570030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4350887428194</id>
+    <published>2020-01-07T14:02:15-05:00</published>
+    <updated>2020-01-07T14:02:15-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/gucci-bloom-acqua-di-fiori-eau-de-toilette-100ml"/>
+    <title>Gucci Bloom Acqua di Fiori Eau de Toilette - 100ml</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>Gucci</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/b947b3589d7c635fdce19b189077596d.jpg?v=1624230832"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gucci<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 3614226761484</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Gucci</s:tag>
+    <s:tag>Perfume</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4350887428194</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">95.00</s:price>
+      <s:sku>3614226761484</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

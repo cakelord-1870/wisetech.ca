@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/consumer-electronics-vehicle-electronics-gps-gps-units.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-05-05T18:55:28-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6556235890786</id>
+    <published>2021-05-05T18:55:28-04:00</published>
+    <updated>2021-05-05T18:55:28-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/car-and-driver-full-hd-1080p-dash-cam-with-wi-fi-cdc-628-slv"/>
+    <title>Car And Driver Full HD 1080p Dash Cam with Wi-Fi (CDC-628-SLV)</title>
+    <s:type>Dash Cam &amp; GPS</s:type>
+    <s:vendor>Car And Driver</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/de205dfd7504912fe9371f2666b53a71.jpg?v=1624229300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Car And Driver<br>
+        <strong>Type: </strong>Dash Cam &amp; GPS<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 083832575113<br>
+<strong>Model No:</strong> <br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556235890786</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.00</s:price>
+      <s:sku>083832575113</s:sku>
+      <s:grams>319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4350886707298</id>
+    <published>2020-01-07T13:56:00-05:00</published>
+    <updated>2020-01-07T13:56:00-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/reload-dual-dashboard-and-backup-camera"/>
+    <title>Reload Dual Dashboard and Backup Camera</title>
+    <s:type>Vehicle Electronics &amp; GPS</s:type>
+    <s:vendor>Reload</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/b67a1358ed8818e21cb7b352a9b015e7.png?v=1624234088"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reload<br>
+        <strong>Type: </strong>Vehicle Electronics &amp; GPS<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 842122130018</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dashcam</s:tag>
+    <s:tag>Reload</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4350886707298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">130.00</s:price>
+      <s:sku>842122130018</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4158756814946</id>
+    <published>2019-09-24T15:57:52-04:00</published>
+    <updated>2019-09-24T15:57:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/reload-720-hd-dashboard-camera-2-in"/>
+    <title>Reload 720 HD Dashboard Camera, 2-in</title>
+    <s:type>Vehicle Electronics &amp; GPS</s:type>
+    <s:vendor>Reload</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/35e1e1fabf8da8d70c2dbe55060613f4.png?v=1624234072"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Reload<br>
+        <strong>Type: </strong>Vehicle Electronics &amp; GPS<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 842122101056</p>
+
+<ul>
+	<li>Reload 720 HD Dashboard Camera records in a crystal clear 1280 x720p HD</li>
+	<li>Can record as high as FHD 1920 x 1080p; adjustable in menu settings</li>
+	<li>Features G-sensor motion detection to automatically save and lock a video when a collision is detected</li>
+	<li>125° Degree wide angle camera lens</li>
+	<li>Enhanced night vision provides clearer picture during night time viewing</li>
+	<li>Features a 2" (5 cm) LCD screen for clear and easy playback and use</li>
+	<li>Windshield suction cup mount</li>
+	<li>Continuous loop recording that overwrites old files when memory is full</li>
+	<li>Tracks up to 32 gb of file storage</li>
+</ul>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Dashcam</s:tag>
+    <s:tag>reload</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4158756814946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>842122101056</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/speakers.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-07-07T18:18:30-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6573970456674</id>
+    <published>2021-07-07T18:18:30-04:00</published>
+    <updated>2021-07-07T18:18:30-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/harman-kardon-esquire-mini-2-bluetooth-wireless-speaker-black"/>
+    <title>Harman Kardon Esquire Mini 2 Bluetooth Wireless Speaker - Black</title>
+    <s:type>Audio Docks &amp; Speakers</s:type>
+    <s:vendor>Harman Kardon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/91cae2d7bdef10e94147e1c564460a0c.jpg?v=1625872955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Harman Kardon<br>
+        <strong>Type: </strong>Audio Docks &amp; Speakers<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 028292284748 <br> <strong>Model No:</strong> HKESQUIREM2BLKAM <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6573970456674</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">165.00</s:price>
+      <s:sku>028292284748</s:sku>
+      <s:grams>577</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6572536758370</id>
+    <published>2021-06-30T20:30:44-04:00</published>
+    <updated>2021-06-30T20:30:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/amazon-echo-dot-3rd-gen-smart-speaker-with-alexa-charcoal-b07pdht5xp"/>
+    <title>Amazon Echo Dot (3rd Gen) Smart Speaker with Alexa - Charcoal (B07PDHT5XP)</title>
+    <s:type>Smart Speaker</s:type>
+    <s:vendor>Amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/8687e581ce30892fe8c56dbb5ebaf696.jpg?v=1625268179"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazon<br>
+        <strong>Type: </strong>Smart Speaker<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 810019521157<br>
+<strong>Model No:</strong> B07PDHT5XP<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6572536758370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>810019521157</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556232941666</id>
+    <published>2021-05-05T18:34:02-04:00</published>
+    <updated>2021-05-05T18:34:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/amazon-echo-dot-2nd-generation-black"/>
+    <title>Amazon Echo Dot (2nd Generation) - Black</title>
+    <s:type>Audio Docks &amp; Speakers</s:type>
+    <s:vendor>Amazon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/fb349a9dc9be03e39ef4c22ab5c7a234.jpg?v=1624227729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Amazon<br>
+        <strong>Type: </strong>Audio Docks &amp; Speakers<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 841667186139<br>
+<strong>Model No:</strong> B07456NHZ7<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556232941666</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.00</s:price>
+      <s:sku>841667186139</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+  </entry>
+</feed>

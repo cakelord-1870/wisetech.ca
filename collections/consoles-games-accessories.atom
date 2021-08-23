@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/consoles-games-accessories.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-03-22T15:16:59-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6543934128226</id>
+    <published>2021-03-22T15:16:59-04:00</published>
+    <updated>2021-03-22T15:16:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/crackdown-3-xbox-one"/>
+    <title>Crackdown 3 (Xbox One)</title>
+    <s:type>Video Game Consoles</s:type>
+    <s:vendor>Microsoft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1f1d7f865955b936b105f113f996d810.jpg?v=1624229364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Microsoft<br>
+        <strong>Type: </strong>Video Game Consoles<br>
+        <strong>Price: </strong>
+            18.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 889842223910<br>
+<strong>Model No:</strong> 7KG-00002</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543934128226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">18.99</s:price>
+      <s:sku>889842223910</s:sku>
+      <s:grams>119</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543933538402</id>
+    <published>2021-03-22T15:11:38-04:00</published>
+    <updated>2021-03-22T15:11:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/kingdom-hearts-3-xbox-one-standard-edition"/>
+    <title>Kingdom Hearts 3 - Xbox One - Standard Edition</title>
+    <s:type>Video Game Consoles</s:type>
+    <s:vendor>Square-Enix</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/afdba82a1a8889a036c227e95ffbfed5.jpg?v=1624231305"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Square-Enix<br>
+        <strong>Type: </strong>Video Game Consoles<br>
+        <strong>Price: </strong>
+            19.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 662248915081<br>
+<strong>Model No:</strong> 91508</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543933538402</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">19.99</s:price>
+      <s:sku>662248915081</s:sku>
+      <s:grams>59</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543218245730</id>
+    <published>2021-03-19T13:03:13-04:00</published>
+    <updated>2021-03-19T13:03:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/star-wars-jedi-fallen-order-english-pc"/>
+    <title>Star Wars Jedi: Fallen Order - English (PC)</title>
+    <s:type>Video Game Consoles</s:type>
+    <s:vendor>Electronic Arts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/8ef07749fa7822365ab17a14aadd1dae.jpg?v=1624235038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Electronic Arts<br>
+        <strong>Type: </strong>Video Game Consoles<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 014633373073<br>
+<strong>Model No:</strong> 37307</p>
+
+<p>For PC Only</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543218245730</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">40.00</s:price>
+      <s:sku>014633373073</s:sku>
+      <s:grams>79</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543215198306</id>
+    <published>2021-03-19T12:59:39-04:00</published>
+    <updated>2021-03-19T12:59:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/avermedia-live-streamer-duo-bundle-bo311dca"/>
+    <title>AverMedia Live Streamer Duo Bundle (BO311DCA)</title>
+    <s:type>Internet &amp; Media Streamers</s:type>
+    <s:vendor>AVerMedia</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/70e1c4bdf7cdd32be94cb51327465447.jpg?v=1624228600"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>AVerMedia<br>
+        <strong>Type: </strong>Internet &amp; Media Streamers<br>
+        <strong>Price: </strong>
+            149.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 795522966285 <br> <strong>Model No:</strong> BO311DCA <br><strong>Condition:</strong> New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543215198306</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.00</s:price>
+      <s:sku>795522966285</s:sku>
+      <s:grams>559</s:grams>
+    </s:variant>
+  </entry>
+</feed>

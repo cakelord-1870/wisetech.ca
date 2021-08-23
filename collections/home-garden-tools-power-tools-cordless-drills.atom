@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/home-garden-tools-power-tools-cordless-drills.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-03-22T15:59:27-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6543939829858</id>
+    <published>2021-03-22T15:59:27-04:00</published>
+    <updated>2021-03-22T15:59:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/milwaukee-m12-12v-lithium-ion-compact-cp-1-5-ah-redlithium-battery-pack-48-11-2401"/>
+    <title>Milwaukee M12 12V Lithium-Ion Compact (CP) 1.5 Ah REDLITHIUM Battery Pack (48-11-2401)</title>
+    <s:type>Power Tools</s:type>
+    <s:vendor>Milwaukee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/2a1a58d3fde05070a9fe025b9e0a83cf.jpg?v=1624232505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Milwaukee<br>
+        <strong>Type: </strong>Power Tools<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 045242293049<br>
+<strong>Model No:</strong> 48-11-2401</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543939829858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>045242293049</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543934455906</id>
+    <published>2021-03-22T15:21:17-04:00</published>
+    <updated>2021-03-22T15:21:17-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/milwaukee-m18-18v-lithium-ion-extended-capacity-xc-high-output-8-0-ah-redlithium-battery-pack"/>
+    <title>Milwaukee M18 18V Lithium-Ion Extended Capacity (XC) HIGH OUTPUT 8.0 Ah REDLITHIUM Battery Pack</title>
+    <s:type>Power Tools</s:type>
+    <s:vendor>Milwaukee</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/milwaukee-power-tool-batteries-48-11-1880-64_1000.jpg?v=1624232525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Milwaukee<br>
+        <strong>Type: </strong>Power Tools<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 045242519231<br> <strong>Model No:</strong> 48-11-1880</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543934455906</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku>045242519231</s:sku>
+      <s:grams>1160</s:grams>
+    </s:variant>
+  </entry>
+</feed>

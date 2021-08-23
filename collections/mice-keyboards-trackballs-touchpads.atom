@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/mice-keyboards-trackballs-touchpads.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-07-07T21:11:51-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6574057422946</id>
+    <published>2021-07-07T21:11:51-04:00</published>
+    <updated>2021-07-07T21:11:51-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/microsoft-designer-bluetooth-compact-keyboard-english-matte-black-21y-00001"/>
+    <title>Microsoft Designer Bluetooth Compact Keyboard English - Matte Black (21Y-00001)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Microsoft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/ae068f5a1ef772c117d057456b702011.jpg?v=1625872978"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Microsoft<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 889842668223 <br> <strong>Model No:</strong> 21Y-00001 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574057422946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>889842668223</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6573975535714</id>
+    <published>2021-07-07T18:57:19-04:00</published>
+    <updated>2021-07-07T18:57:19-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/razer-blackwidow-v3-tenkeyless-backlit-mechanical-gaming-keyboard-english"/>
+    <title>Razer BlackWidow V3 Tenkeyless Backlit Mechanical Gaming Keyboard - English</title>
+    <s:type>Keyboard</s:type>
+    <s:vendor>Razer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/89115bbf670d2f893af749ebac324338.jpg?v=1625872965"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Razer<br>
+        <strong>Type: </strong>Keyboard<br>
+        <strong>Price: </strong>
+            122.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 811659038234 <br> <strong>Model No:</strong> RZ03-03490200-R3U1 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6573975535714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">122.00</s:price>
+      <s:sku>811659038234</s:sku>
+      <s:grams>1128</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6546765906018</id>
+    <published>2021-06-30T20:44:49-04:00</published>
+    <updated>2021-06-30T20:44:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-g502-lightspeed-16000-dpi-wireless-optical-gaming-mouse-black-910-005565"/>
+    <title>Logitech G502 LIGHTSPEED 16000 DPI Wireless Optical Gaming Mouse - Black (910-005565)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/059d6276299fae6db965fa965ffcf132.jpg?v=1624231863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855145246<br>
+<strong>Model No:</strong> 910-005565</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6546765906018</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">185.00</s:price>
+      <s:sku>097855145246</s:sku>
+      <s:grams>399</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6572535939170</id>
+    <published>2021-06-30T20:12:42-04:00</published>
+    <updated>2021-06-30T20:12:42-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-mx-anywhere-3-bluetooth-darkfield-mouse-for-mac-grey-910-005899"/>
+    <title>Logitech MX Anywhere 3 Bluetooth Darkfield Mouse for Mac - Grey (910-005899)</title>
+    <s:type>Mouse</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/78231b0965ebb69feee8f7bbdf29b7cd.jpg?v=1625268170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Mouse<br>
+        <strong>Price: </strong>
+            94.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855161772 <br> <strong>Model No:</strong> 910-005899 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6572535939170</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">94.99</s:price>
+      <s:sku>097855161772</s:sku>
+      <s:grams>228</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6572535742562</id>
+    <published>2021-06-30T20:08:23-04:00</published>
+    <updated>2021-06-30T20:08:23-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/razer-viper-8khz-20000-dpi-optical-gaming-mouse-black-rz01-03580100-r3u1"/>
+    <title>Razer Viper 8KHz 20000 DPI Optical Gaming Mouse - Black (RZ01-03580100-R3U1)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Razer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/cbe53b86f76bc34bd6ee0123eb6cc17c.jpg?v=1625268169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Razer<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            88.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 810056140847<br>
+<strong>Model No:</strong> RZ01-03580100-R3U1<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6572535742562</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">88.99</s:price>
+      <s:sku>810056140847</s:sku>
+      <s:grams>221</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/401810161703</id>
+    <published>2021-06-23T14:40:59-04:00</published>
+    <updated>2021-06-23T14:40:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/microsoft-elg-00001-arc-mouse"/>
+    <title>Microsoft ELG-00001 Arc Mouse</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Microsoft</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/4045ea0fd7683cc4a3fe18cfdc1f9557.jpg?v=1624232330"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Microsoft<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 889842178470</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Microsoft</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/401810161703</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">70.00</s:price>
+      <s:sku>889842178470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4350513643618</id>
+    <published>2021-06-23T14:29:00-04:00</published>
+    <updated>2021-06-23T14:29:00-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-g703-lightspeed-wireless-gaming-mouse-with-hero-16k-sensor-black"/>
+    <title>Logitech G703 HERO Lightspeed Wireless Gaming Mouse - Black</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/c50fe83012472450461ce75074dd7bf1.jpg?v=1624231916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            107.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855147936<br><strong>Model No:</strong> 910-00563<br><strong>Condition:</strong> New</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Logitech</s:tag>
+    <s:tag>Mouse</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4350513643618</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">107.99</s:price>
+      <s:sku>097855147936</s:sku>
+      <s:grams>159</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6569802367074</id>
+    <published>2021-06-23T14:21:52-04:00</published>
+    <updated>2021-06-23T14:21:52-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-mx-master-3-bluetooth-darkfield-mouse-for-mac-space-grey"/>
+    <title>Logitech MX Master 3 Bluetooth Darkfield Mouse for Mac - Space Grey</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/6c17ac77abf4d84209ba45a2215278aa.jpg?v=1624663349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            115.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855151575<br> <strong>Model No:</strong> 910-005693<br> <strong>Condition: </strong>New</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6569802367074</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">115.00</s:price>
+      <s:sku>097855151575</s:sku>
+      <s:grams>319</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/401810227239</id>
+    <published>2021-04-01T14:50:40-04:00</published>
+    <updated>2021-04-01T14:50:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/apple-magic-trackpad-2-mj2r2ll-a"/>
+    <title>Apple Magic Trackpad 2 (MJ2R2LL/A)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Apple</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/2271a243dddf19f93d7ea10aa92c02ef.jpg?v=1624228255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Apple<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC: </strong>888462647823 <br><strong>Model: </strong>MJ2R2LL/A</p>
+<p>One of our best new design, Magic Trackpad 2 can easily recharge and comes with a built-in battery and a Force Touch for the desktop for the very first time. The remarkable four force sensors that are beneath the trackpad have an extraordinary sensitivity that allows you to click wherever you desire, as you pick up on the delicate differences in the amount of force that you apply. Such incredible qualities also bring incredible functionality to the tip of your fingers and facilitate a better and more profound connection to your content. Magic Trackpad 2 comes with a unique glass surface that is approximately 30 percent bigger than the previous Mac trackpad. Scrolling and swiping between numerous web pages has never been so easy, it’s lower profile makes everything more industrious and more comfortable than ever before.</p>
+<p>Magic Trackpad 2 automatically pairs with any Mac, it’s wireless connection allows you to get straight to work without any complications. And what is even better, the battery of your Magic Trackpad 2 will last you for up to one month or more, depending on the amount of usage, before sending out a signal to recharge.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Apple</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/401810227239</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>888462647823</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543249997922</id>
+    <published>2021-03-19T13:35:22-04:00</published>
+    <updated>2021-03-19T13:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/samsung-keyboard-cover-case-for-galaxy-tab-s5e-black-ej-ft720bbegca"/>
+    <title>Samsung Keyboard Cover Case for Galaxy Tab S5e - Black (EJ-FT720BBEGCA)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/43439cbf4c83033e40d436e3e06c7573.jpg?v=1624234310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 887276331508<br>
+<strong>Model No:</strong> EJ-FT720BBEGCA</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543249997922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>887276331508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543223062626</id>
+    <published>2021-03-19T13:07:53-04:00</published>
+    <updated>2021-03-19T13:07:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-spotlight-wireless-presentation-remote-slate-910-005216"/>
+    <title>Logitech Spotlight Wireless Presentation Remote - Slate (910-005216)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/b2a60ff12226b31332b7da95d941836e.png?v=1624232112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855132079<br>
+<strong>Model No:</strong> 910-005216</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543223062626</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>097855132079</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4530811535458</id>
+    <published>2020-12-11T14:07:47-05:00</published>
+    <updated>2020-12-11T14:07:47-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/55"/>
+    <title>Targus Wireless USB Multimedia Presentation Remote (AMP09US)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Targus</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/5acbae26591a2d52a0920f159d64882e.jpg?v=1624235102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Targus<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 092636246440<br>
+<strong>Model No:</strong> AMP09US</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/4530811535458</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>092636246440</s:sku>
+      <s:grams>992</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4519393624162</id>
+    <published>2020-11-09T13:30:06-05:00</published>
+    <updated>2020-11-09T13:30:06-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-r400-wireless-presenter-910-001355"/>
+    <title>Logitech R400 Wireless Presenter (910-001355)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/47c8def3feed0a31720d915b1137966e.jpg?v=1624232092"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            44.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855061614<br>
+<strong>Model No:</strong> 910-001355</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/4519393624162</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.99</s:price>
+      <s:sku>097855061614</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4502963617890</id>
+    <published>2020-09-23T20:36:40-04:00</published>
+    <updated>2020-09-23T20:36:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-r800-wireless-presentation-remote-910-001350"/>
+    <title>Logitech R800 Wireless Presentation Remote (910-001350)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/d44191d33b5a3fc2b157c06be64d65bff7e1ca34_square75682_1.jpg?v=1624232100"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            64.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855061591<br> <strong>Model No:</strong> 910-001350<br><strong>Condition:</strong> New</p>
+<p>Logitech Professional Presenter R800 is a powerful green laser pointer is easy to see even in the dark and on bright LCD and plasma displays. With this remote you have the freedom to move around the room and interact with your audience from up to 30 meters away. It has a timer and vibrating alert build-in to help you not go over time.</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/4502963617890</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.99</s:price>
+      <s:sku>097855061591</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+  </entry>
+</feed>

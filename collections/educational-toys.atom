@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/educational-toys.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-03-22T15:18:47-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6543934259298</id>
+    <published>2021-03-22T15:18:47-04:00</published>
+    <updated>2021-03-22T15:18:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/littlebits-gizmos-gadgets-kit-2nd-edition"/>
+    <title>littleBits Gizmos &amp; Gadgets Kit 2nd Edition</title>
+    <s:type>Toys</s:type>
+    <s:vendor>littleBits</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/c5844d0465d79e9c2abffbed6a169b19.jpg?v=1624231729"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>littleBits<br>
+        <strong>Type: </strong>Toys<br>
+        <strong>Price: </strong>
+            249.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 810876021388<br>
+<strong>Model No:</strong> 680-0007-00CAB</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543934259298</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">249.99</s:price>
+      <s:sku>810876021388</s:sku>
+      <s:grams>1179</s:grams>
+    </s:variant>
+  </entry>
+</feed>

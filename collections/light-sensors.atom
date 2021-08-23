@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/light-sensors.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-07-07T21:17:13-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6574057914466</id>
+    <published>2021-07-07T21:17:13-04:00</published>
+    <updated>2021-07-07T21:17:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/lutron-caseta-smart-switch-kit-with-smart-bridge-pico-remote-control-2-pack"/>
+    <title>Lutron Caseta Smart Switch Kit with Smart Bridge &amp; Pico Remote Control (2-Pack)</title>
+    <s:type>Smart Switches</s:type>
+    <s:vendor>Lutron</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/27d1f9ea9924954a3122301bddacf772.jpg?v=1625872982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lutron<br>
+        <strong>Type: </strong>Smart Switches<br>
+        <strong>Price: </strong>
+            175.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 784276283250 <br> <strong>Model No:</strong> P-BDG-PKG2WS-WHC <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574057914466</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">175.00</s:price>
+      <s:sku>784276283250</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4358399787106</id>
+    <published>2020-01-24T14:36:34-05:00</published>
+    <updated>2020-01-24T14:36:34-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/sengled-pulse-br30-smart-led-light-bulb-with-built-in-speaker-c01-br30msp-2-pack"/>
+    <title>Sengled Pulse BR30 Smart LED Light Bulb with Built-in Speaker (C01-BR30MSP) - 2 Pack</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>Sengled</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/9397166b022d5913df1e482283fc891a.jpg?v=1624234481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sengled<br>
+        <strong>Type: </strong>Home Improvement<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 840696100017</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>LED</s:tag>
+    <s:tag>Sengled</s:tag>
+    <s:tag>Smart Light</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4358399787106</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>840696100017</s:sku>
+      <s:grams>1133</s:grams>
+    </s:variant>
+  </entry>
+</feed>

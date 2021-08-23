@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/computer-components-parts.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-07-07T21:15:02-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6574057717858</id>
+    <published>2021-07-07T21:15:02-04:00</published>
+    <updated>2021-07-07T21:15:02-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/corsair-vengeance-lpx-32gb-2-x-16gb-ddr4-3200mhz-desktop"/>
+    <title>Corsair Vengeance LPX 32GB (2 x 16GB) DDR4 3200MHz Desktop</title>
+    <s:type>Memory (RAM)</s:type>
+    <s:vendor>Corsair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/79a4e73229e3316fd59cd1eee2418d88.jpg?v=1625872981"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Corsair<br>
+        <strong>Type: </strong>Memory (RAM)<br>
+        <strong>Price: </strong>
+            255.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 840006608547 <br> <strong>Model No:</strong> CMK32GX4M2E3200C16 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574057717858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">255.00</s:price>
+      <s:sku>840006608547</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6574057226338</id>
+    <published>2021-07-07T21:07:56-04:00</published>
+    <updated>2021-07-07T21:07:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/corsair-vengeance-rgb-pro-32gb-2-x-16gb-ddr4-3600mhz-desktop-memory"/>
+    <title>Corsair Vengeance RGB Pro 32GB (2 x 16GB) DDR4 3600MHz Desktop Memory</title>
+    <s:type>Memory (RAM)</s:type>
+    <s:vendor>Corsair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/a69c8ea50534236ebf3c93ba7397137f.jpg?v=1625872975"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Corsair<br>
+        <strong>Type: </strong>Memory (RAM)<br>
+        <strong>Price: </strong>
+            299.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 840006620778 <br> <strong>Model No:</strong> CMW32GX4M2D3600C18 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574057226338</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">299.99</s:price>
+      <s:sku>840006620778</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6574056177762</id>
+    <published>2021-07-07T20:56:50-04:00</published>
+    <updated>2021-07-07T20:56:50-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/corsair-vengeance-rgb-pro-16gb-2-x-8gb-ddr4-3200mhz-desktop-memory"/>
+    <title>Corsair Vengeance RGB Pro 16GB (2 x 8GB) DDR4 3200MHz Desktop Memory</title>
+    <s:type>Memory (RAM)</s:type>
+    <s:vendor>Corsair</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/1bab0a9163f42d95ee2e7160a6ea206d.jpg?v=1625872969"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Corsair<br>
+        <strong>Type: </strong>Memory (RAM)<br>
+        <strong>Price: </strong>
+            134.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 843591075381 <br> <strong>Model No:</strong> CMW16GX4M2C3200C16 <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574056177762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">134.99</s:price>
+      <s:sku>843591075381</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

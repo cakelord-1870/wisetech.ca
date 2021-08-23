@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/consumer-electronics-portable-audio-headphones-headphones.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-07-07T21:10:04-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6574057324642</id>
+    <published>2021-07-07T21:10:04-04:00</published>
+    <updated>2021-07-07T21:10:04-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/sony-wf-xb700-in-ear-truly-wireless-headphones-black"/>
+    <title>Sony WF-XB700 In-Ear Truly Wireless Headphones - Black</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/5ce190334fe9a097d23d2ecaa1c4215a.jpg?v=1625872976"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            149.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 027242918832 <br>
+<strong>Model No:</strong> WFXB700/B <br>
+<strong>Condition: </strong>New </p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6574057324642</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">149.99</s:price>
+      <s:sku>027242918832</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556241035362</id>
+    <published>2021-05-05T19:44:24-04:00</published>
+    <updated>2021-05-05T19:44:24-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/samsung-galaxy-buds-in-ear-sound-isolating-truly-wireless-headphones-black"/>
+    <title>Samsung Galaxy Buds In-Ear Sound Isolating Truly Wireless Headphones - Black</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/9912ed7ffa67a435d7a39e0fb1d08f6f.jpg?v=1624234235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            129.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 887276308050 <br> <strong>Model No:</strong> SMR170NZKAXAC <br> <strong>Condition: </strong>New </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556241035362</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">129.99</s:price>
+      <s:sku>887276308050</s:sku>
+      <s:grams>179</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556240248930</id>
+    <published>2021-05-05T19:35:48-04:00</published>
+    <updated>2021-05-05T19:35:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/beats-by-dr-dre-powerbeats-high-performance-wireless-earphones-black"/>
+    <title>Beats By Dr. Dre Powerbeats High-Performance Wireless Earphones - Black</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Beats</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/45ab1dfb5b0c667d5168be9881cd8b82.jpg?v=1624228638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beats<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            169.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 190199246225<br>
+<strong>Model No:</strong> MWNV2LL/A<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:12</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556240248930</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">169.98</s:price>
+      <s:sku>190199246225</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556239167586</id>
+    <published>2021-05-05T19:25:05-04:00</published>
+    <updated>2021-05-05T19:25:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/jaybird-run-true-wireless-sport-headphones-jet-black-985-000679"/>
+    <title>Jaybird RUN True Wireless Sport Headphones - Jet Black (985-000679)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Jaybird</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/fcbbc1730992d30c981669c3a8c19b52.jpg?v=1624231194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jaybird<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            138.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 6920377907082<br>
+<strong>Model No:</strong> 985-000679<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556239167586</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">138.00</s:price>
+      <s:sku>6920377907082</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556238905442</id>
+    <published>2021-05-05T19:22:37-04:00</published>
+    <updated>2021-05-05T19:22:37-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/happy-plugs-air-1-plus-earbud-truly-wireless-headphones-black-1651"/>
+    <title>Happy Plugs Air 1 Plus Earbud Truly Wireless Headphones - Black (1651)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Happy Plugs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/0f7be9f40601dc5bb78093c6c789f076.png?v=1624230919"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Happy Plugs<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            89.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 811613033527<br>
+<strong>Model No:</strong> 1651<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556238905442</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">89.99</s:price>
+      <s:sku>811613033527</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556238774370</id>
+    <published>2021-05-05T19:21:11-04:00</published>
+    <updated>2021-05-05T19:21:11-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/sennheiser-over-ear-noise-cancelling-bluetooth-headphones-black-red"/>
+    <title>Sennheiser Over-Ear Noise Cancelling Bluetooth Headphones - Black/Red</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Sennheiser</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/2c56c2dfdda70b6697c26d2a1ba586e6.jpg?v=1624234534"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sennheiser<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            188.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 615104353183<br>
+<strong>Model No:</strong> HD 458BT<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556238774370</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">188.99</s:price>
+      <s:sku>615104353183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556234416226</id>
+    <published>2021-05-05T18:43:01-04:00</published>
+    <updated>2021-05-05T18:43:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/marshall-minor-ii-in-ear-bluetooth-headphones-brown-1001894"/>
+    <title>Marshall Minor II In-Ear Bluetooth Headphones - Brown (1001894)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Marshall</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/9d7bfd879daf20c4896db842c93c8608.png?v=1624232233"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Marshall<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            109.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 7340055353960<br>
+<strong>Model No:</strong> 1001894<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556234416226</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">109.99</s:price>
+      <s:sku>7340055353960</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556234252386</id>
+    <published>2021-05-05T18:41:55-04:00</published>
+    <updated>2021-05-05T18:41:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/happy-plugs-air-1-earbud-truly-wireless-headphones-black-marble-1620"/>
+    <title>Happy Plugs Air 1 Earbud Truly Wireless Headphones - Black Marble (1620)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Happy Plugs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/b8170974de8e1ecf83fe560a1c2b2235.jpg?v=1624230885"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Happy Plugs<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            69.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 811613032971<br>
+<strong>Model No:</strong> 1620<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556234252386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">69.99</s:price>
+      <s:sku>811613032971</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556234055778</id>
+    <published>2021-05-05T18:41:12-04:00</published>
+    <updated>2021-05-05T18:41:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/happy-plugs-air-1-earbud-truly-wireless-headphones-white-marble-1621"/>
+    <title>Happy Plugs Air 1 Earbud Truly Wireless Headphones - White Marble (1621)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Happy Plugs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/45ca3ce6121173d684bb610d92e98bed.jpg?v=1624230892"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Happy Plugs<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 811613032988<br>
+<strong>Model No:</strong> 1621<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556234055778</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">65.00</s:price>
+      <s:sku>811613032988</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556233302114</id>
+    <published>2021-05-05T18:35:53-04:00</published>
+    <updated>2021-05-05T18:35:53-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/jabra-elite-65t-in-ear-noise-cancelling-truly-wireless-bluetooth-black"/>
+    <title>Jabra Elite 65t In-Ear Noise Cancelling Truly Wireless Bluetooth - Black</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Jabra</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/d3cca6f36cec0b176c37906eb462dd17.jpg?v=1624231157"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Jabra<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 615822010542<br>
+<strong>Model No:</strong> 100-99000000-02<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556233302114</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">90.00</s:price>
+      <s:sku>615822010542</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556221964386</id>
+    <published>2021-05-05T17:35:13-04:00</published>
+    <updated>2021-05-05T17:35:13-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/happy-plugs-air1-in-ear-truly-wireless-headphones-black-1616"/>
+    <title>Happy Plugs Air1 In-Ear Truly Wireless Headphones - Black (1616)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Happy Plugs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/80fa2255a206436853e8bc36b728d1f7.jpg?v=1624230925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Happy Plugs<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 811613032476<br> <strong>Model No:</strong> 1616<br> <strong>Condition: </strong>New</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556221964386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">45.00</s:price>
+      <s:sku>811613032476</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6554681868386</id>
+    <published>2021-04-28T15:51:16-04:00</published>
+    <updated>2021-04-28T15:51:16-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/happy-plugs-air-1-anc-in-ear-noise-cancelling-truly-wireless-headphones-black"/>
+    <title>Happy Plugs Air 1 ANC In-Ear Noise Cancelling Truly Wireless Headphones - Black</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Happy Plugs</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/7902cfb5facc4605d7b9d0a482edca47.jpg?v=1624230873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Happy Plugs<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 811613034739<br> <strong>Model No:</strong> 1681<br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6554681868386</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">160.00</s:price>
+      <s:sku>811613034739</s:sku>
+      <s:grams>453</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543937601634</id>
+    <published>2021-03-22T15:44:40-04:00</published>
+    <updated>2021-03-22T15:44:40-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/beats-by-dr-dre-urbeats3-in-ear-with-lightning-connector-satin-gold-muhw2ll-a"/>
+    <title>Beats By Dr. Dre urBeats3 In-Ear with Lightning Connector - Satin Gold (MUHW2LL/A)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Beats by Dr. Dre</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/944e783ed7c54e272ef7b95ac2ca1144.jpg?v=1624228749"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Beats by Dr. Dre<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            75.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 190198942845<br>
+<strong>Model No:</strong> MUHW2LL/A</p>
+
+<p>Connector: Lightning </p>
+
+<p><strong>For iOS ONLY</strong></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543937601634</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">75.00</s:price>
+      <s:sku>190198942845</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4362790862946</id>
+    <published>2020-02-06T14:39:05-05:00</published>
+    <updated>2020-02-06T14:39:05-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/pioneer-rayz-plus-smart-noise-cancelling-in-ear-headphones-for-iphone-only-black"/>
+    <title>Pioneer Rayz Plus Smart Noise Cancelling In-Ear Headphones for iPhone ONLY - Black</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Pioneer</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/850a8d97faf0c97a72b49a150b45dbc0.jpg?v=1624233961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Pioneer<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 814633021017<br>
+<strong>Model No:</strong> SE-LTC5R-K/XZCWL-5</p>
+
+<p><strong>***For iPhone Only. Lightning Connector***</strong></p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headphone</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Pioneer</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4362790862946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>814633021017</s:sku>
+      <s:grams>149</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4362151886946</id>
+    <published>2020-02-05T13:24:07-05:00</published>
+    <updated>2020-02-05T13:24:07-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/motorola-sh010-verveones-music-edition-bluetooth-stereo-smart-earbuds-white-gray-sh010"/>
+    <title>Motorola SH010 VerveOnes Music Edition Bluetooth Stereo Smart Earbuds - White/Gray (SH010)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Motorola</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/f55aeb020e2f479232b723b1f87b2640.jpg?v=1624232585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Motorola<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 816479014246<br>
+<strong>Model No:</strong> SH010</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earphones</s:tag>
+    <s:tag>Motorola</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4362151886946</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.00</s:price>
+      <s:sku>816479014246</s:sku>
+      <s:grams>117</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4359957020770</id>
+    <published>2020-01-28T15:58:39-05:00</published>
+    <updated>2020-01-28T15:58:39-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/audio-technica-sonicsport-wireless-in-ear-headphones-black-ath-sport7twbk"/>
+    <title>Audio-Technica SonicSport Wireless in-Ear Headphones - Black (ATH-SPORT7TWBK)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Audio-Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/d9001a3837292848c46955a758a748ee.jpg?v=1624228479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio-Technica<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 4961310147013<br> <strong>Model No:</strong> ATH-SPORT7TWBK</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audio-Technica</s:tag>
+    <s:tag>Earphones</s:tag>
+    <s:tag>Headphones</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4359957020770</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku>4961310147013</s:sku>
+      <s:grams>203</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4353846837346</id>
+    <published>2020-01-13T14:15:25-05:00</published>
+    <updated>2020-01-13T14:15:25-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/sony-in-ear-bluetooth-headphones-with-mic-black-wi-sp500"/>
+    <title>Sony In-Ear Bluetooth Headphones with Mic - Black (WI-SP500)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/28d3023f4a03f126733c11fa1934ba13.jpg?v=1624234781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 027242908574</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Sony</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4353846837346</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">72.00</s:price>
+      <s:sku>027242908574</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4353845166178</id>
+    <published>2020-01-13T13:58:02-05:00</published>
+    <updated>2020-01-13T13:58:02-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/audio-technica-true-wireless-in-ear-headphones-black-ath-ckr7tw"/>
+    <title>Audio-Technica True Wireless in-Ear Headphones - Black (ATH-CKR7TW)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Audio-Technica</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/470774ee1d87d1d67b520de54f7fcc08.jpg?v=1624228481"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Audio-Technica<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            199.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 4961310147334 <br><strong>Model:</strong> ATH-CKR7TW </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Audio-Technica</s:tag>
+    <s:tag>Earphones</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4353845166178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">199.99</s:price>
+      <s:sku>4961310147334</s:sku>
+      <s:grams>248</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4350885331042</id>
+    <published>2020-01-07T13:43:58-05:00</published>
+    <updated>2020-01-07T13:43:58-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/skybuds-charcoal-black"/>
+    <title>Skybuds - Charcoal (Black)</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Skybuds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/b483b886e750c97f5cd9ce6f7596d582.jpg?v=1624234658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Skybuds<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 855480006000</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Earphones</s:tag>
+    <s:tag>Skybuds</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4350885331042</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>855480006000</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/2186108829794</id>
+    <published>2019-03-27T15:54:22-04:00</published>
+    <updated>2019-03-27T15:54:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/sony-in-ear-sound-isolating-noise-cancelling-truly-wireless-headphones-with-mic"/>
+    <title>Sony In-Ear Sound Isolating Noise Cancelling Truly Wireless Headphones with mic</title>
+    <s:type>Headphones &amp; Earphones</s:type>
+    <s:vendor>Sony</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/9941293bf834828fc97339a7f2f944c6.jpg?v=1624234840"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Sony<br>
+        <strong>Type: </strong>Headphones &amp; Earphones<br>
+        <strong>Price: </strong>
+            169.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 027242908666</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Headphones</s:tag>
+    <s:tag>Sony</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/2186108829794</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">169.99</s:price>
+      <s:sku>027242908666</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

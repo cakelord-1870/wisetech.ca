@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/doorbells-locks.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-05-05T18:28:22-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6556231598178</id>
+    <published>2021-05-05T18:28:22-04:00</published>
+    <updated>2021-05-05T18:28:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/ring-wi-fi-video-doorbell-3-8vrslz-0fc0"/>
+    <title>Ring Wi-Fi Video Doorbell 3 (8VRSLZ-0FC0)</title>
+    <s:type>Doorbells &amp; Locks</s:type>
+    <s:vendor>Ring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/ea91de4a523a5ca5a1402ab4bacbe069.jpg?v=1624234169"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ring<br>
+        <strong>Type: </strong>Doorbells &amp; Locks<br>
+        <strong>Price: </strong>
+            189.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 842861112337<br>
+<strong>Model No:</strong> 8VRSLZ-0FC0<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556231598178</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">189.99</s:price>
+      <s:sku>842861112337</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4375397236834</id>
+    <published>2021-03-22T09:19:39-04:00</published>
+    <updated>2021-03-22T09:19:39-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/google-nest-hello-wi-fi-video-doorbell-black-white-nc5100ef"/>
+    <title>Google Nest Hello Wi-Fi Video Doorbell - Black/White (NC5100EF)</title>
+    <s:type>Doorbells &amp; Locks</s:type>
+    <s:vendor>Google Nest</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/587cd3ef0369307304ddfa2bdf57fc15.jpg?v=1624230649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Google Nest<br>
+        <strong>Type: </strong>Doorbells &amp; Locks<br>
+        <strong>Price: </strong>
+            259.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 813917020944 <br> <strong>Model No:</strong> NC5100EF </p>
+<p>Google Nest Hello lets you know who’s there, so you never miss a visitor or a package. Once installed, Hello gives you a live always-on HD video stream of your doorstep.  With a Google Nest Aware subscription, it can also tell you if it’s a person you know, or a stranger. And with night vision and HDR imaging you'll see visitors clearly, even at night.</p>
+<ul>
+<li>24/7 streaming and continuous video recording</li>
+<li>4:3 HD video designed to show people head to toe</li>
+<li>HDR video shows sharp details, even in bright and dark areas</li>
+<li>Person, motion and sound alerts to detect visitors</li>
+<li>Can recognize family and friends and send a special alert</li>
+<li>Prerecorded quick responses</li>
+<li>Person alerts - No dead batteries - Wi-Fi connectivity</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>__stock:100</s:tag>
+    <s:tag>Google Nest</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4375397236834</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">259.99</s:price>
+      <s:sku>813917020944</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4536995217506</id>
+    <published>2021-01-05T15:20:53-05:00</published>
+    <updated>2021-01-05T15:20:53-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/august-wi-fi-smart-lock-4th-generation-silver"/>
+    <title>August Wi-Fi Smart Lock (4th Generation) - Silver</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>August Home</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/407f3856c57501502d42fc06efbce2cc.jpg?v=1624228582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>August Home<br>
+        <strong>Type: </strong>Home Improvement<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 850004426357<br> <strong>Model No:</strong> AUG-SL05-M01-S01</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/4536995217506</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">280.00</s:price>
+      <s:sku>850004426357</s:sku>
+      <s:grams>688</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4530846662754</id>
+    <published>2020-12-11T14:39:12-05:00</published>
+    <updated>2020-12-11T14:39:12-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/schlage-century-sense-satin-nickel-smart-deadbolt-with-bluetooth-technology-be479cen619-21178"/>
+    <title>Schlage Century Sense Satin Nickel Smart Deadbolt with Bluetooth Technology (BE479CEN619) (21178)</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>Schlage</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/fecf4677ef0b26ecb6375a3de031a101.jpg?v=1624234336"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Schlage<br>
+        <strong>Type: </strong>Home Improvement<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 061045211783<br>
+<strong>Model No:</strong> BE479 CEN 619</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/4530846662754</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">225.00</s:price>
+      <s:sku>061045211783</s:sku>
+      <s:grams>5102</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/4158302421090</id>
+    <published>2019-09-23T17:35:01-04:00</published>
+    <updated>2019-09-23T17:35:01-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/ring-door-view-cam-video-doorbell-to-replace-your-peephole-with-smart-security"/>
+    <title>Ring Door View Cam – Video doorbell to replace your peephole with smart security</title>
+    <s:type>Home Improvement</s:type>
+    <s:vendor>Ring</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/a4e49edebfefa845ffedd31a0e847a58.jpg?v=1624234099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ring<br>
+        <strong>Type: </strong>Home Improvement<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC: </strong>842861106596 <br><strong>Model: </strong>8SP1S9-0FC0</p>
+<p>Enjoy all the benefits of a Video Doorbell – HD video, two-way talk and motion-activated notifications – in a sleek, compact form that’s perfectly designed for homes and apartments with a compatible peephole. It installs in minutes, senses knocks and lets you see who’s at your door from anywhere. So you can spend less time worrying about home and more time enjoying your every day.</p>
+<ul>
+<li>1080p HD video with two-way talk allows you to see, hear, and speak to visitors from your phone or tablet</li>
+<li>Live View gives you on-demand access to real-time video, anytime you want to check on your home</li>
+<li>Adjustable motion sensors let you customize the range and sensitivity to focus on the most important areas</li>
+<li>Receive notifications right to your phone anytime someone presses the doorbell button, knocks on the door, or triggers the motion sensors</li>
+<li>Compatible with Amazon Alexa so you can control your doorbell right from your Alexa-enabled devices (sold separately)</li>
+<li>30-day free trial of Ring Protect Plan allows you to record, review, and share your videos</li>
+<li>Included installation tool lets you set up the doorbell in minutes</li>
+<li>Quick-release battery pack makes it easy to charge up the battery for continued use</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ring</s:tag>
+    <s:tag>Smart Lock</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/4158302421090</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">165.00</s:price>
+      <s:sku>842861106596</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+  </entry>
+</feed>

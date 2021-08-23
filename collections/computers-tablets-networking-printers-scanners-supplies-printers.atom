@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/computers-tablets-networking-printers-scanners-supplies-printers.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-05-05T18:29:48-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6556231925858</id>
+    <published>2021-05-05T18:29:48-04:00</published>
+    <updated>2021-05-05T18:29:48-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/epson-rapidreceipt-wireless-mobile-receipt-and-document-scanner-rr-70w"/>
+    <title>Epson RapidReceipt Wireless Mobile Receipt and Document Scanner (RR-70W)</title>
+    <s:type>Printers &amp; Ink</s:type>
+    <s:vendor>Epson</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/74c3cdc3d9a5d21a4bfaa2eef92cb67e.jpg?v=1624230025"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Epson<br>
+        <strong>Type: </strong>Printers &amp; Ink<br>
+        <strong>Price: </strong>
+            229.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 010343960176<br> <strong>Model No:</strong> RR-70W<br> <strong>Condition: </strong>New</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556231925858</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">229.99</s:price>
+      <s:sku>010343960176</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

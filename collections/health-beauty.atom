@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/health-beauty.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-05-05T18:47:38-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6556235006050</id>
+    <published>2021-05-05T18:47:38-04:00</published>
+    <updated>2021-05-05T18:47:38-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/panasonic-2-in-1-wet-dry-shaver-trimmer-esll41k"/>
+    <title>Panasonic 2-in-1 Wet &amp; Dry Shaver/Trimmer (ESLL41K)</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>Panasonic</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/559d4210f76d9f66ed0c5047fd981a98.jpg?v=1624233856"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Panasonic<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 885170335004<br>
+<strong>Model No:</strong> ESLL41K<br>
+<strong>Condition: </strong>New</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556235006050</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">120.00</s:price>
+      <s:sku>885170335004</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6556230418530</id>
+    <published>2021-05-05T18:20:45-04:00</published>
+    <updated>2021-05-05T18:20:45-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/silkn-titan-skin-tightening-and-lifting"/>
+    <title>Silk&apos;n Titan Skin Tightening and Lifting</title>
+    <s:type>Health Tech</s:type>
+    <s:vendor>Silk’n</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/625640f0ee8c3b5911178f39ab8fa204.jpg?v=1624234624"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk’n<br>
+        <strong>Type: </strong>Health Tech<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 7290015763851 <br> <strong>Model No:</strong> H2111, H2112 <br> <strong>Condition: </strong>New </p>
+<p>Silk'n Titan helps to lift and Tighten tired skin. Also, it’s an anti-aging device. It’s the same technology used by professional clinics, and now you can have it at home. Its affordable, safe and pain free. Plus, its suitable for all skin types<br>Silk’n Titan delivers energy to precise areas beneath the skin to activate your body’s natural restoration process. Titan tightens skin. *<br></p>
+<p><strong>Benefits</strong><br></p>
+<ul>
+<li>Tightens skin</li>
+<li>Improves the structure and elasticity of the skin</li>
+<li>Reduces wrinkles and fine lines around the eyes</li>
+<li>Rejuvenates collagen and elastin fibers</li>
+<li>Reduces superficial sun and age spots</li>
+<li>No recovery time needed</li>
+</ul>
+<p><br><strong>How to Use</strong><br></p>
+<ol>
+<li>Press the central button to desired energy level.</li>
+<li>Spread a thin layer of slider gel over intended area of treatment.</li>
+<li>Press the device to the designated skin area.</li>
+<li>You’ll feel a mild sensation of warmth. Move the device in gentle massage- like linear motions on the area you wish to treat.</li>
+<li>Progress slowly and carefully. Apply facial lotion or mask, immediately after treatment.</li>
+<li>For complete instructions, please refer to the user manual, before treatment.</li>
+</ol>
+<p> </p>
+<p>*Results may vary based on skin type and degree of laxity in skin</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6556230418530</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">210.00</s:price>
+      <s:sku>7290015763851</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6553150193762</id>
+    <published>2021-04-22T16:13:12-04:00</published>
+    <updated>2021-04-22T16:13:12-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/silkn-revit-prestige-microdermabrasion-device-revp1pe1001"/>
+    <title>Silk&apos;n ReVit Prestige Microdermabrasion Device (REVP1PE1001)</title>
+    <s:type>Beauty</s:type>
+    <s:vendor>Silk’n</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/792c322a51a99c7e3cd29372f77b0144.jpg?v=1624234551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Silk’n<br>
+        <strong>Type: </strong>Beauty<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 7290112450012 <br> <strong>Model No:</strong> REVP1PE1001 <br> <strong>Condition: </strong>﻿New </p>
+<p>Silk’n ReVit Prestige is a powerful microdermabrasion device that can give you firm and vital skin that looks younger in only several minutes. Dead skin cells are removed, and the production of new skin cells is stimulated. The skin texture and elasticity are visibly improved. The vacuum stimulation enhances the blood circulation for a healthy complexion. In addition, Silk’n ReVit Prestige makes irregularities, shallow acne scars and age spots less visible and helps soften large pores and fine lines.<br><br><strong>Benefits</strong><br></p>
+<ul>
+<li>Ultra-powerful microdermabrasion device with diamond peeling</li>
+<li>Improves skin tone, texture and elasticity*</li>
+<li>Blurs age spots, irregularities in the skin and shallow acne scars</li>
+<li>Removes dead skin cells, stimulates the production of new cells and stimulates the blood circulation</li>
+<li>Can be used in manual mode, but also provides an auto mode that will guide you through your treatment for best results</li>
+<li>Includes: 4 tips (Fine, Regular, Body, Massage), 30 filters, 1 stand/charging cradle, 1 adapter with USB cable, 1 cleaning brush and 1 pouch</li>
+</ul>
+<p><br><strong>How to Use</strong><br></p>
+<ol>
+<li>Ensure your skin is clean, dry and free of skincare creams or make-up.</li>
+<li>Attach the desired treatment tip to the device and switch it on by pressing the Power button once.</li>
+<li>Select the preferred mode and start your treatment. Do this by placing the treatment tip against the skin and move it slowly over the area that needs to be treated. A full facial treatment takes about four minutes.</li>
+<li>Switch off the device as soon as you have finished. Wash the face or body with cold water to cool the skin and remove any remaining exfoliated dead skin cells.</li>
+<li>Apply a cream, preferably with SPF 30, or a body lotion, to nourish the skin.</li>
+</ol>
+<p> </p>
+<p>*Results may vary based on skin type and texture</p>
+<p><br><br></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6553150193762</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">140.00</s:price>
+      <s:sku>7290112450012</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/2185082863714</id>
+    <published>2019-03-26T14:44:59-04:00</published>
+    <updated>2019-03-26T14:44:59-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/chi-air-1-flat-iron"/>
+    <title>CHI Air 1&quot; Flat Iron</title>
+    <s:type>Health &amp; Beauty</s:type>
+    <s:vendor>CHI</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/b32842d80c5ffb745a1f358be5e555a7.jpg?v=1624229339"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>CHI<br>
+        <strong>Type: </strong>Health &amp; Beauty<br>
+        <strong>Price: </strong>
+            99.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>UPC: 813843010101</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>CHI</s:tag>
+    <s:tag>Flat Iron</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/2185082863714</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">99.00</s:price>
+      <s:sku>813843010101</s:sku>
+      <s:grams>481</s:grams>
+    </s:variant>
+  </entry>
+</feed>

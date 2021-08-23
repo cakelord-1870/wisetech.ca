@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://wisetech.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://wisetech.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://wisetech.ca/collections/computers-tablets-networking-tablets-ebook-readers.atom"/>
+  <title>WiseTech Inc</title>
+  <updated>2021-06-23T15:51:05-04:00</updated>
+  <author>
+    <name>WiseTech Inc</name>
+  </author>
+  <entry>
+    <id>https://wisetech.ca/products/6569814851682</id>
+    <published>2021-06-23T15:51:05-04:00</published>
+    <updated>2021-06-23T15:51:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-combo-touch-keyboard-for-ipad-8th-7th-gen-english"/>
+    <title>Logitech Combo Touch Keyboard for iPad (8th/7th Gen) - English</title>
+    <s:type>Folio Case</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/2f237bb4fc8af28e4b66d41d409fe731.jpg?v=1624663356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Folio Case<br>
+        <strong>Price: </strong>
+            178.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855157799<br> <strong>Model No:</strong> 920-009608<br> <strong>Condition: </strong>New</p>
+<p>Fits the Apple iPad 10.2" (8th generation and 7th generation)</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6569814851682</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">178.00</s:price>
+      <s:sku>097855157799</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6569812590690</id>
+    <published>2021-06-23T15:31:05-04:00</published>
+    <updated>2021-06-23T15:31:05-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/logitech-folio-touch-keyboard-case-for-ipad-pro-11-grey-920-009743"/>
+    <title>Logitech Folio touch Keyboard Case for iPad Pro 11&quot; - Grey (920-009743)</title>
+    <s:type>Folio Case</s:type>
+    <s:vendor>Logitech</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/4fc4fa9d6a0218f260ab2deecc66c952.jpg?v=1624663351"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Logitech<br>
+        <strong>Type: </strong>Folio Case<br>
+        <strong>Price: </strong>
+            183.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 097855158796<br> <strong>Model No:</strong> 920-009743<br> <strong>Condition: </strong>New</p>
+<ul>
+<li>Compatible with the Apple iPad Pro 11" (1st, 2nd, and 3rd generation)</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6569812590690</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">183.00</s:price>
+      <s:sku>097855158796</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/6543249997922</id>
+    <published>2021-03-19T13:35:22-04:00</published>
+    <updated>2021-03-19T13:35:22-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/samsung-keyboard-cover-case-for-galaxy-tab-s5e-black-ej-ft720bbegca"/>
+    <title>Samsung Keyboard Cover Case for Galaxy Tab S5e - Black (EJ-FT720BBEGCA)</title>
+    <s:type>Mice, Keyboards, Trackballs &amp; Touchpads</s:type>
+    <s:vendor>Samsung</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/43439cbf4c83033e40d436e3e06c7573.jpg?v=1624234310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Samsung<br>
+        <strong>Type: </strong>Mice, Keyboards, Trackballs &amp; Touchpads<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC:</strong> 887276331508<br>
+<strong>Model No:</strong> EJ-FT720BBEGCA</p>
+</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://wisetech.ca/products/6543249997922</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">135.00</s:price>
+      <s:sku>887276331508</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://wisetech.ca/products/212524761127</id>
+    <published>2017-10-24T18:35:56-04:00</published>
+    <updated>2017-10-24T18:35:56-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://wisetech.ca/products/nylon-sleeve-ms-surface-red"/>
+    <title>Nylon Sleeve MS Surface Red</title>
+    <s:type>Tablets &amp; eBook Readers</s:type>
+    <s:vendor>Nylon</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/1453/7046/products/d199bb637d5af4757dc1dc8d88dd80d1.jpg?v=1624233673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nylon<br>
+        <strong>Type: </strong>Tablets &amp; eBook Readers<br>
+        <strong>Price: </strong>
+            29.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p><strong>UPC: </strong>814523640182</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Nylon</s:tag>
+    <s:variant>
+      <id>https://wisetech.ca/products/212524761127</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.00</s:price>
+      <s:sku>814523640182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
